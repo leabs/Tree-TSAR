@@ -3,16 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Abies Genus (fir)
+title: Pinaceaes
 ---
 
+<h2>Genus Selection (for Pinaceaes)</h2>
 <br />
-<div class="accordion" id="accordionPanelsStayOpenExample">
+<div class="accordion accordion-flush" id="accordionPanelsStayOpenExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="panelsStayOpen-headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse"
         data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-        Browse Abies Genus (fir)
+        Abies Genus (fir)
       </button>
     </h2>
     <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show"
@@ -21,9 +22,15 @@ title: Abies Genus (fir)
         <!--For loop to display the contents of the _writers directory-->
         <div class="row">
           {% for posts in site.abies %}
+          {% assign content = post.content | strip_newlines %}
           <div class="col-md-3 text-center">
             <div class="card" style="display: flex; margin:10px 4px; box-shadow: 0 0 5px 5px rgba(0,0,0,0.025)">
-              <h5 class="card-title"><a  href="{{ posts.url }}" >{{ posts.title | truncate: 22 }}</a></h5>
+              {% if posts.content == blank  %}
+              <h5 class="card-title">{{ post.title| truncate: 22 }}</h5>
+              {% else %}
+              <h5 class="card-title">
+              <a  href="{{ posts.url }}" >{{ posts.title | truncate: 22 }}</a></h5>
+              {% endif %}
               <h6 class="card-subtitle mb-2 text-muted">{{ posts.Firs | truncate: 22 }}</h6>
 
             </div>
@@ -32,12 +39,35 @@ title: Abies Genus (fir)
         </div>
       </div>
     </div>
+
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Accordion Item #2
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Accordion Item #3
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
   </div>
 
 </div>
 <br />
-
-
 
 **Justifications for the Treatment of Abies**
 
@@ -61,7 +91,7 @@ subspecies/varieties under A. nordmanniana.
 Hrivnak et al. (2017) provide strong supporting data for Abies cilicica and Abies cilicica ssp. isaurica. The latter is
 quite rare and of major conservation concern. It is in North America, but it would be cool to acquire new genetics.
 
-*The Balkans Complex:*
+_The Balkans Complex:_
 
 The taxa Abies alba, Abies cephalonica, and their putative hybrid A. borisii-regis are present in the Balkans, the
 latter as a putative stabilized hybrid. Krajmerova et al. (2016) provides data indicating that A. borisii-regis is a
@@ -71,7 +101,7 @@ borisii-regis is genetically intermediate. Needle volatiles share the same tende
 borisii-regis intermediate (Nikolic et al. 2021). Despite its variable nature and hybrid origin, I record the name as A.
 borisii-regis here since it generally behaves as a stabilized hybrid species.
 
-*The North African Complex:*
+_The North African Complex:_
 
 A. pinsapo has been historically treated as having three varieties: the type in Spain, and var. marocana and tazaotana
 in Morocco. Two studies, Terrab et al. (2007) and Sanchez-Robles et al. (2014) provide evidence for distinct but limited
@@ -84,12 +114,12 @@ Sanchez-Robles et al. (2014) provide some evidence for a close relationship betw
 The hybrid (koreana x lasiocarpa) has two grex names listed above, but neither have been validly published.
 
 **Section Pseudopicea**
-*The A. delavayensis complex:*
+_The A. delavayensis complex:_
 
 Trees and Shrubs Online note that A. fabri seem to fall within a broad morphological interpretation of A. delavayi, but
 that it has a suite of unique characters warranting species status.
 
-*The A. chensiensis complex:*
+_The A. chensiensis complex:_
 
 A. chensiensis, A. ernestii, A. recurvata, and A. salouenensis are all distinct but closely related species; retaining
 this treatment as proposed by Trees and Shrubs Online appears to be the preferable approach to describing their
@@ -100,6 +130,6 @@ Flora of China, but requires further study.
 The critically endangered A. beshanzuensis and A. ziyuanensis are distinct, but the latter may be a subspecies of the
 former.
 
-*The A. forrestii complex:*
+_The A. forrestii complex:_
 
 The taxon known as A. forrestii var. georgei appears best treated as a distinct species (TSO).

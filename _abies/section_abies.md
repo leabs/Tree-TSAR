@@ -1,5 +1,7 @@
 ---
 Abies: Section Abies
 Firs: Mediterranean firs
-layout: default
+layout: post
 ---
+
+The Eastern Mediterranean Complex: The taxa A. bornmuelleriana and A. equi-trojani are frequently considered to be synonymous with the latter as the accepted name, but there is evidence that they are distinct taxa. Handel-Mazzetti named them at the same time in 1925 from distinct geographical regions; therefore my classification here treating A. equi-trojani as a subordinate taxon follows the genetic data in Hrivnak et al. (2017) establishing it as a recent offshoot of A. bornmuelleriana. Coode and Cullen (1965) also considered these taxa to be distinct, and at the species level. Hrivnak et al. (2017) also provide evidence that A. x olcayana (putative A. bornmuelleriana x A. equi-trojani) is not a hybrid, but a recent evolutionary offshoot within A. bornmuelleriana s.l., much like A. equi-trojani. I adopt this treatment here, since it is clearly a distinct regional/ecological form worthy of conservation. Hrivnak et al. (2017) establish a close relationship between the above taxa and A. nordmanniana. They are maintained at the species level here to capture their variation, but there appears to be an argument for including them as subordinate subspecies/varieties under A. nordmanniana. Hrivnak et al. (2017) provide strong supporting data for Abies cilicica and Abies cilicica ssp. isaurica. The latter is quite rare and of major conservation concern. It is in North America, but it would be cool to acquire new genetics.
