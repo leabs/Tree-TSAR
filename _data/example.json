@@ -1,0 +1,274 @@
+[
+  {
+    "Abies": "Section Abies",
+    "Firs": "Mediterranean firs"
+  },
+  {
+    "Abies": "alba",
+    "Firs": "Silver fir"
+  },
+  {
+    "Abies": "borisii-regis",
+    "Firs": "King Boris fir"
+  },
+  {
+    "Abies": "bornmuelleriana",
+    "Firs": "Turkish fir"
+  },
+  {
+    "Abies": "bornmuelleriana ssp. equi-trojani",
+    "Firs": "Trojan fir"
+  },
+  {
+    "Abies": "bornmuelleriana ssp. olcayana",
+    "Firs": "Chataldag fir"
+  },
+  {
+    "Abies": "cephalonica",
+    "Firs": "Greek fir"
+  },
+  {
+    "Abies": "cilicica",
+    "Firs": "Cilician fir"
+  },
+  {
+    "Abies": "cilicica ssp. isaurica",
+    "Firs": "Isaurian fir"
+  },
+  {
+    "Abies": "nebrodensis",
+    "Firs": "Sicilian fir"
+  },
+  {
+    "Abies": "nordmanniana",
+    "Firs": "Nordmann fir"
+  },
+  {
+    "Abies": "numidica",
+    "Firs": "Algerian fir"
+  },
+  {
+    "Abies": "pinsapo",
+    "Firs": "Spanish fir"
+  },
+  {
+    "Abies": "pinsapo ssp. marocana",
+    "Firs": "Moroccan fir"
+  },
+  {
+    "Abies": "pinsapo ssp. marocana var. tazaotana",
+    "Firs": "Tazaot mountain fir"
+  },
+  {
+    "Abies": "Section Amabilis",
+    "Firs": "Silver firs"
+  },
+  {
+    "Abies": "amabilis",
+    "Firs": "Pacific silver fir"
+  },
+  {
+    "Abies": "mariesii",
+    "Firs": "Maries' fir"
+  },
+  {
+    "Abies": "Section Balsamea",
+    "Firs": "Balsam firs"
+  },
+  {
+    "Abies": "balsamea",
+    "Firs": "Balsam fir"
+  },
+  {
+    "Abies": "balsamea var. phanerolepis",
+    "Firs": "Canaan fir"
+  },
+  {
+    "Abies": "fraseri",
+    "Firs": "Fraser fir"
+  },
+  {
+    "Abies": "koreana",
+    "Firs": "Korean fir"
+  },
+  {
+    "Abies": "lasiocarpa",
+    "Firs": "Subalpine fir"
+  },
+  {
+    "Abies": "nephrolepis",
+    "Firs": "Manchurian fir"
+  },
+  {
+    "Abies": "sachalinensis",
+    "Firs": "Sakhalin fir"
+  },
+  {
+    "Abies": "sibirica",
+    "Firs": "Siberian fir"
+  },
+  {
+    "Abies": "veitchii",
+    "Firs": "Veitch's fir"
+  },
+  {
+    "Abies": "(koreana x lasiocarpa) (aka koreocarpa; lasicor)",
+    "Firs": "Koreocarpa fir"
+  },
+  {
+    "Abies": "Section Bracteata",
+    "Firs": "Bristlecone fir"
+  },
+  {
+    "Abies": "bracteata",
+    "Firs": "Bristlecone fir"
+  },
+  {
+    "Abies": "Section Grandis",
+    "Firs": "Grand firs"
+  },
+  {
+    "Abies": "concolor",
+    "Firs": "White fir"
+  },
+  {
+    "Abies": "durangensis",
+    "Firs": "Durango fir"
+  },
+  {
+    "Abies": "flinckii",
+    "Firs": "Jalisco fir"
+  },
+  {
+    "Abies": "grandis",
+    "Firs": "Grand fir"
+  },
+  {
+    "Abies": "guatemalensis",
+    "Firs": "Guatemalan fir"
+  },
+  {
+    "Abies": "hickelii",
+    "Firs": "Oaxacan fir"
+  },
+  {
+    "Abies": "religiosa",
+    "Firs": "Sacred fir"
+  },
+  {
+    "Abies": "vejarii",
+    "Firs": "Vejar's fir"
+  },
+  {
+    "Abies": "Section Nobilis",
+    "Firs": "Noble firs"
+  },
+  {
+    "Abies": "magnifica",
+    "Firs": "California red fir"
+  },
+  {
+    "Abies": "procera",
+    "Firs": "Noble fir"
+  },
+  {
+    "Abies": "x shastensis (magnifica x procera)",
+    "Firs": "Shasta fir"
+  },
+  {
+    "Abies": "Section Pseudopicea",
+    "Firs": "Blue-Coned firs"
+  },
+  {
+    "Abies": "beshanzuensis",
+    "Firs": "Baishan fir"
+  },
+  {
+    "Abies": "x chengii (salouenensis x forrestii)",
+    "Firs": "Cheng's fir"
+  },
+  {
+    "Abies": "chensiana",
+    "Firs": "River fir"
+  },
+  {
+    "Abies": "delavayi",
+    "Firs": "Delavay's fir"
+  },
+  {
+    "Abies": "densa",
+    "Firs": "Bhutan fir"
+  },
+  {
+    "Abies": "ernestii",
+    "Firs": "Wilson's fir"
+  },
+  {
+    "Abies": "fabri",
+    "Firs": "Faber's fir"
+  },
+  {
+    "Abies": "fanjingshanensis",
+    "Firs": "Fanjingshan fir"
+  },
+  {
+    "Abies": "fargesii",
+    "Firs": "Farges fir"
+  },
+  {
+    "Abies": "fargesii var. faxoniana",
+    "Firs": "Faxon's fir"
+  },
+  {
+    "Abies": "firma",
+    "Firs": "Momi fir"
+  },
+  {
+    "Abies": "forrestii",
+    "Firs": "Forrest's fir"
+  },
+  {
+    "Abies": "georgei",
+    "Firs": "Rusty fir"
+  },
+  {
+    "Abies": "holophylla",
+    "Firs": "Needle fir"
+  },
+  {
+    "Abies": "homolepis",
+    "Firs": "Nikko fir"
+  },
+  {
+    "Abies": "nukiangensis",
+    "Firs": "Nukiang fir"
+  },
+  {
+    "Abies": "pindrow",
+    "Firs": "West Himalayan fir"
+  },
+  {
+    "Abies": "recurvata",
+    "Firs": "Min fir"
+  },
+  {
+    "Abies": "salouenensis",
+    "Firs": "Salween fir"
+  },
+  {
+    "Abies": "spectabilis",
+    "Firs": "East Himalayan fir"
+  },
+  {
+    "Abies": "squamata",
+    "Firs": "Flaky fir"
+  },
+  {
+    "Abies": "yuanbaoshanensis",
+    "Firs": "Yuanbaoshan fir"
+  },
+  {
+    "Abies": "ziyuanensis",
+    "Firs": "Zhihuan fir"
+  }
+]
