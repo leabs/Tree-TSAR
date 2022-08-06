@@ -1,5 +1,6 @@
 ---
 Abies: alba
 Firs: Silver fir
-layout: default
+layout: post
 ---
+CONTENT
