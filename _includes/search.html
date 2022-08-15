@@ -1,0 +1,20 @@
+<div id="search-container">
+    <input type="search" class="form-control" id="search-input" placeholder="search...">
+    <ul id="results-container"></ul>
+</div>
+
+
+<script src="../assets/js/simple-jekyll-search.min.js"></script>
+
+<script>window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} <span> | </span> {firs} </a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+    })</script>
+
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>

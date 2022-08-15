@@ -37,4 +37,31 @@
   margin-bottom: 20px;
 }
 
-/* Sidebar */
+/* Searchbar */
+#search-container{
+  max-width:800px;
+  margin: 40px auto;
+  
+}
+
+#results-container{
+  max-width:800px;
+  margin: 10px auto;
+  list-style:none;
+  padding-left:0;
+  padding:6px;
+}
+#results-container > li {
+  list-style:none;
+  padding:10px 0;
+  box-shadow:rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+#results-container > li > a {
+  padding:6px;
+}
+
+/* Sections */
+section.section{
+  margin-bottom:60px;
+}
