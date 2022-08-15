@@ -30,13 +30,6 @@ subtitle: Get in touch.
                 <input type="email" name="email" type="text" placeholder="Your email" class="form-control" required>
               </div>
             </div>
-            <div class="form-group">
-                <select class="form-select" for="pricing-plan" aria-label="Default select example">
-                    <option value="less than an acre" selected>> 1 Acre</option>
-                    <option value="1-5 acres">1-5 Acres</option>
-                    <option value="6+ acres">6+ Acres</option>
-                </select>
-            </div>
             <!-- Message body -->
             <div class="form-group">
               <label class="col-md-3 control-label" for="message">Your message*</label>
