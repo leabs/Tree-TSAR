@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: genus
 title: Pinaceaes
 ---
 <div class="container">
@@ -42,11 +42,9 @@ title: Pinaceaes
       </div>
 
     </div>
-
-
-
   </div>
   <br />
+</div>
 
   **Justifications for the Treatment of Abies**
 
@@ -120,4 +118,3 @@ title: Pinaceaes
   _The A. forrestii complex:_
 
   The taxon known as A. forrestii var. georgei appears best treated as a distinct species (TSO).
-  </div>
