@@ -1,28 +1,24 @@
-{% if trees.featured %}
-<section class="section">
-    <h3>Featured Species</h3>
-    <div class="card-group">
-        {% for trees in site.abies limit: 3 %}
-        <!--If featured frontmatter is set to true-->
-        {% if trees.featured %}
+<section class="section" style="background:rgba(0,0,0,0.02); padding:30px;">
+    <div class="container">
+        <h1 class="text-primary" style="font-weight:700; font-size: 16px;">Featured Species </h1>
+        <h2 class="">Updated species with good notes</h2>
+        <div class="card-group">
+            {% for trees in site.abies limit: 3 %}
+            <!--If featured frontmatter is set to true-->
 
-        <div class="card">
+
             <div class="card">
-                <img class="card-img-top" src="..." alt="Card image cap">
-                <div class="card-body">
-                    <h5 class="card-title"><a href="{{trees.url}}">{{trees.title}} | {{ trees.Firs }}</a></h5>
-                    <p class="card-text">{{ trees.content }}</p>
-                    <p class="card-text"><small class="text-muted"><time
-                                datetime="{{ trees.date }}">Updated: {{ trees.date| date_to_string }}</time></small></p>
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="{{trees.url}}">{{trees.title}} | {{ trees.Firs }}</a></h5>
+                        <p class="card-text">{{ trees.content }}</p>
+                        <p class="card-text"><small class="text-muted"><time datetime="{{ trees.date }}">Updated:
+                                    {{ trees.date| date_to_string }}</time></small></p>
+                    </div>
                 </div>
             </div>
+            {% endfor %}
         </div>
-
-
-        {% endif %}
-        {% endfor %}
-
-
     </div>
 </section>
-{% endif %}

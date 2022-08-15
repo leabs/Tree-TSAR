@@ -1,20 +1,31 @@
+/* Font */
+body, p, li, a{
+  font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,h4,h5,button{
+  font-family: 'Montserrat', sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+
 /* The hero image */
 .hero-image {
-  background: #0f2027; /* fallback for old browsers */
+  background: #0d6efd; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
     #2c5364,
-    #203a43,
-    #0f2027
+
+    #0d6efd
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
     #2c5364,
-    #203a43,
-    #0f2027
+
+    #0d6efd
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-  height: 200px;
+  min-height: 230px;
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
@@ -64,4 +75,8 @@
 /* Sections */
 section.section{
   margin-bottom:60px;
+}
+/* Pricing */
+.pricing-cards > div{
+ 
 }
