@@ -41,3 +41,8 @@ collections:
     source: abies.json
     id_key: Abies
     layout: post
+  colors:
+    output: true 
+    source: colors.json 
+    id_key: color
+    layout: post

@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-subtitle: Get in touch.
+subtitle: Ready to start your next project with us?
 ---
 
 <section class="section">
@@ -15,26 +15,25 @@ subtitle: Get in touch.
         <div class="well well-sm">
           <form class="form-horizontal" action="" method="post">
           <fieldset>
-            <legend>Contact us</legend>
             <!-- Name input-->
             <div class="form-group">
-              <label class="col-md-3 control-label" for="name">Name*</label>
+              <label class="col-md-3 control-label" for="name">Name</label>
               <div class="">
-                <input id="name" name="name" type="text" placeholder="Your name" class="form-control" required>
+                <input id="name" name="name" type="text" placeholder="Your name *" class="form-control" required>
               </div>
             </div>
             <!-- Email input-->
             <div class="form-group">
-              <label class="col-md-3 control-label" for="email">Your E-mail*</label>
+              <label class="col-md-3 control-label" for="email">Your E-mail</label>
               <div class="">
-                <input type="email" name="email" type="text" placeholder="Your email" class="form-control" required>
+                <input type="email" name="email" type="text" placeholder="Your email *" class="form-control" required>
               </div>
             </div>
             <!-- Message body -->
             <div class="form-group">
-              <label class="col-md-3 control-label" for="message">Your message*</label>
+              <label class="col-md-3 control-label" for="message">Your message</label>
               <div class="">
-                <textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5" required></textarea>
+                <textarea class="form-control" id="message" name="message" placeholder="Your message *" rows="5" required></textarea>
               </div>
             </div>
             <br />

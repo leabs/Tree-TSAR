@@ -5,7 +5,6 @@
 layout: genus
 title: Pinaceaes
 ---
-<div class="container">
   <h2>Genus Selection (for Pinaceaes)</h2>
   <br />
   <div class="accordion accordion-flush" id="accordionPanelsStayOpenExample">
@@ -44,7 +43,7 @@ title: Pinaceaes
     </div>
   </div>
   <br />
-</div>
+
 
   **Justifications for the Treatment of Abies**
 

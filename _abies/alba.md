@@ -4,4 +4,4 @@ Firs: Silver fir
 layout: post
 feature: true
 ---
-CONTENT
+Some content about silver fir.
