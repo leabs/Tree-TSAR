@@ -1,24 +1,29 @@
-<section class="section" style="background:rgba(0,0,0,0.02); padding:30px;">
-    <div class="container">
-        <h1 class="text-primary" style="font-weight:700; font-size: 16px;">Featured Species </h1>
-        <h2 class="">Newly updated species</h2>
-        <div class="row row-cols-1 row-cols-md-3 g-4">
-            {% for trees in site.abies limit: 3 %}
-            <!--If featured frontmatter is set to true-->
+<section class="section" style="background: rgba(0, 0, 0, 0.02); padding: 30px">
+  <div class="container">
+    <h1 class="text-primary" style="font-weight: 700; font-size: 16px">
+      Featured Species
+    </h1>
+    <h2 class="">Newly updated species</h2>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      {% for trees in site.abies limit: 3 %}
+      <!--If featured frontmatter is set to true-->
 
-
-            <div class="col">
-                <div class="card h-100">
-                    <img class="card-img-top" src="../assets/images/tree.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title"><a href="{{trees.url}}">{{trees.title}} | {{ trees.Firs }}</a></h5>
-                        <p class="card-text">{{ trees.content }}</p>
-                        
-                    </div>
-
-                </div>
-            </div>
-            {% endfor %}
+      <div class="col">
+        <div class="card h-100">
+          <img
+            class="card-img-top"
+            src="../assets/images/tree.jpg"
+            alt="Card image cap"
+          />
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="{{trees.url}}">{{trees.title}} | {{ trees.Firs }}</a>
+            </h5>
+            <p class="card-text">{{ trees.content }}</p>
+          </div>
         </div>
+      </div>
+      {% endfor %}
     </div>
+  </div>
 </section>
