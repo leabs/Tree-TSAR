@@ -1,5 +1,5 @@
 ---
 Abies: pindrow
 Firs: West Himalayan fir
-layout: default
+layout: post
 ---

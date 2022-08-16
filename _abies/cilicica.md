@@ -1,5 +1,5 @@
 ---
 Abies: cilicica
 Firs: Cilician fir
-layout: default
+layout: post
 ---

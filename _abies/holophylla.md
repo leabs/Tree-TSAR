@@ -1,5 +1,5 @@
 ---
 Abies: holophylla
 Firs: Needle fir
-layout: default
+layout: post
 ---

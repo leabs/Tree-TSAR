@@ -1,5 +1,5 @@
 ---
 Abies: Section Grandis
 Firs: Grand firs
-layout: default
+layout: post
 ---

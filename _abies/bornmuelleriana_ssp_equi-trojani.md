@@ -1,5 +1,5 @@
 ---
 Abies: bornmuelleriana ssp. equi-trojani
 Firs: Trojan fir
-layout: default
+layout: post
 ---

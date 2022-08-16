@@ -1,5 +1,5 @@
 ---
 Abies: religiosa
 Firs: Sacred fir
-layout: default
+layout: post
 ---

@@ -1,6 +1,5 @@
 ---
 Abies: balsamea
 Firs: Balsam fir
-layout: default
+layout: post
 ---
-Some high level info.

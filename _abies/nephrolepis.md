@@ -1,5 +1,5 @@
 ---
 Abies: nephrolepis
 Firs: Manchurian fir
-layout: default
+layout: post
 ---

@@ -1,5 +1,5 @@
 ---
 Abies: fabri
 Firs: Faber's fir
-layout: default
+layout: post
 ---

@@ -1,5 +1,5 @@
 ---
 Abies: spectabilis
 Firs: East Himalayan fir
-layout: default
+layout: post
 ---

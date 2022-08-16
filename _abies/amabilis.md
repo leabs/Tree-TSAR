@@ -1,6 +1,5 @@
 ---
 Abies: amabilis
 Firs: Pacific silver fir
-layout: default
+layout: post
 ---
-Some notes here.

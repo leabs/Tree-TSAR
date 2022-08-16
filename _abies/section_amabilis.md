@@ -1,5 +1,5 @@
 ---
 Abies: Section Amabilis
 Firs: Silver firs
-layout: default
+layout: post
 ---

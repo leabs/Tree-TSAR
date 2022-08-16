@@ -1,5 +1,5 @@
 ---
 Abies: nebrodensis
 Firs: Sicilian fir
-layout: default
+layout: post
 ---

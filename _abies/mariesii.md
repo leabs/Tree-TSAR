@@ -1,5 +1,5 @@
 ---
 Abies: mariesii
 Firs: Maries' fir
-layout: default
+layout: post
 ---
