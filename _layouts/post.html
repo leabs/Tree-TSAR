@@ -5,7 +5,10 @@ layout: default
     <div class="container">
         <br />
         {% include breadcrumbs.html %}
+        <hr />
+        
 
         <main>{{ content }}</main>
+        <small>Last Updated: {{ page.date |  date_to_long_string }}</small>
     </div>
 </section>

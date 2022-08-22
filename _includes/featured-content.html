@@ -19,7 +19,7 @@
             <h5 class="card-title">
               <a href="{{trees.url}}">{{trees.title}} | {{ trees.Firs }}</a>
             </h5>
-            <p class="card-text">{{ trees.content }}</p>
+            <p class="card-text">{{ trees.content | truncate: 60 }}</p>
           </div>
         </div>
       </div>
