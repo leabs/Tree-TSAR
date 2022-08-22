@@ -12,14 +12,12 @@
       {% tablerow pair in row %}
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
-         <a href="/abies/{{ pair[1] }}.html">{{ pair[1] }}</a>
+         <a href="/abies/{{ pair[1] | downcase | replace: " ","_" }}.html">{{ pair[1] }}</a>
         {% elsif thecycle == "Section" %}
         <strong>{{ pair[1] }}</strong>
       {% else %}
         {{ pair[1] }}
       {% endif %}
       {% endtablerow %}
-
-
     {% endfor %}
   </table>
