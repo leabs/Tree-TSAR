@@ -6,9 +6,28 @@ layout: default
         <br />
         {% include breadcrumbs.html %}
         <hr />
-        
+        <main>
+            {% if page.image %}
+            <picture>
+                <source srcset="..." type="image/svg+jpg">
+                <img src="../assets/images/{{ page.image }}" class="mx-4 rounded float-start img-thumbnail" width="300" alt ="Image of  {{page.title}}" /> 
+              </picture>
+             
+              {% endif %}
+            {{ content }}
 
-        <main>{{ content }}</main>
+            <br />
+
+            {% if page.varients %}
+            <p>Varients or Clones:</p>
+            <ul>
+                {% for varients in page.varients %}
+                <li><a href="{{varients.url}}">{{ varients }}</a></li>
+    
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </main>
         <small>Last Updated: {{ page.date |  date_to_long_string }}</small>
     </div>
 </section>
