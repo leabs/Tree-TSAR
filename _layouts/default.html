@@ -2,12 +2,12 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>{{ site.title}} - {{page.title }}</title>
+    <title>{{ site.title }} - {{ page.title }}</title>
     <meta name="description" content="{{ site.description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <meta property="og:title" content="{{ site.title}} - {{page.title }}" />
-    <meta property="og:type" content="" />
+    <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:image" content="" />
 
@@ -32,6 +32,25 @@
     <link rel="stylesheet" href="../assets/styles.css" />
     <link rel="stylesheet" href="../assets/variables.css" />
     <meta name="theme-color" content="#fafafa" />
+    <!--Critical CSS styles-->
+    <style>
+      .btn-primary {
+        --bs-btn-color: #fff;
+        --bs-btn-bg: #4d621e;
+        --bs-btn-border-color: #4d621e;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: #41531a;
+        --bs-btn-hover-border-color: #3e4e18;
+        --bs-btn-focus-shadow-rgb: 104, 122, 64;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #3e4e18;
+        --bs-btn-active-border-color: #3a4a17;
+        --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+        --bs-btn-disabled-color: #fff;
+        --bs-btn-disabled-bg: #4d621e;
+        --bs-btn-disabled-border-color: #4d621e;
+      }
+    </style>
   </head>
 
   <body>
@@ -40,9 +59,6 @@
 
     <div>{% include hero.html %}</div>
     <div>{{ content }}</div>
-    <!-- <script src="js/vendor/modernizr-3.11.2.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script> -->
 
     {% include footer.html %}
 
