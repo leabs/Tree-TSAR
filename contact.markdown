@@ -17,23 +17,25 @@ subtitle: Ready to start your next project with us?
           <fieldset>
             <!-- Name input-->
             <div class="form-group">
-              <label class="col-md-3 control-label" for="name">Name</label>
+              <label class="col-md-3 control-label" for="name">Name *</label>
               <div class="">
-                <input id="name" name="name" type="text" placeholder="Your name *" class="form-control" required>
+                <input id="name" name="name" type="text" placeholder="Your name " class="form-control" required>
               </div>
             </div>
+            <br />
             <!-- Email input-->
             <div class="form-group">
-              <label class="col-md-3 control-label" for="email">Your E-mail</label>
+              <label class="col-md-3 control-label" for="email">Your E-mail *</label>
               <div class="">
-                <input type="email" name="email" type="text" placeholder="Your email *" class="form-control" required>
+                <input type="email" name="email" type="text" placeholder="Your email" class="form-control" required>
               </div>
             </div>
+            <br />
             <!-- Message body -->
             <div class="form-group">
-              <label class="col-md-3 control-label" for="message">Your message</label>
+              <label class="col-md-3 control-label" for="message">Your message *</label>
               <div class="">
-                <textarea class="form-control" id="message" name="message" placeholder="Your message *" rows="5" required></textarea>
+                <textarea class="form-control" id="message" name="message" placeholder="Let us know your lot size and any other details you'd like to share" rows="5" required></textarea>
               </div>
             </div>
             <br />

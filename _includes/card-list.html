@@ -1,0 +1,18 @@
+<div class="row">
+    {% for posts in site.abies %}
+    {% assign content = post.content | strip_newlines %}
+    <div class="col-md-4 text-center" style="">
+        <div class="card"
+            style="display: flex; justify-content: center; padding:8px; min-height:100px; border: 0; margin:10px 4px; box-shadow: 0 0 10px 5px rgba(0,0,0,0.045)">
+            {% if posts.content == blank  %}
+            <h5 class="card-title">{{ post.title }}</h5>
+            {% else %}
+            <h5 class="card-title">
+                <a href="{{ posts.url }}">{{ posts.title   }}</a></h5>
+            {% endif %}
+            <h6 class="card-subtitle mb-2 text-muted">{{ posts.Firs  }}</h6>
+
+        </div>
+    </div>
+    {% endfor %}
+</div>

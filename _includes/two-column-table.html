@@ -1,0 +1,23 @@
+<!--loop through data.authors and populate a table, make data that contains the word section bold in Jekyll-->
+<table class="table table-sm table-striped table-responsive">
+    {% for row in site.data.Abies-Example %}
+      {% if forloop.first %}
+      <tr>
+        {% for pair in row %}
+          <th style="width: 50%">{{ pair[0] }}</th>
+        {% endfor %}
+      </tr>
+      {% endif %}
+  
+      {% tablerow pair in row %}
+      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+        {% if thecycle == 'odd' %}
+         <a href="/abies/{{ pair[1] | downcase | replace: " ","_" | replace ".", "" }}.html">{{ pair[1] }}</a>
+        {% elsif thecycle == "Section" %}
+        <strong>{{ pair[1] }}</strong>
+      {% else %}
+        {{ pair[1] }}
+      {% endif %}
+      {% endtablerow %}
+    {% endfor %}
+  </table>

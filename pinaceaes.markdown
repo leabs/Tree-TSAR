@@ -4,47 +4,9 @@
 
 layout: genus
 title: Pinaceaes
+family: Conifer 
 subtitle: The Pinaceae, or pine family, are conifer trees or shrubs, including many of the well-known conifers of commercial importance such as cedars, firs, hemlocks, larches, pines and spruces.
 ---
-
-  <h2>Genus Selection (for Pinaceaes)</h2>
-  <br />
-  <div class="accordion accordion-flush" id="accordionPanelsStayOpenExample">
-<div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-          Abies - firs <span class="mx-2 badge bg-primary rounded-pill">{{ site.abies | size }}</span>
-        </button>
-      </h2>
-      <div id="flush-collapseOne" class="accordion-collapse collapse "
-        aria-labelledby="flush-collapseOne">
-        <div class="accordion-body">
-          <!--For loop to display the contents of the _writers directory-->
-          <div class="row">
-            {% for posts in site.abies %}
-            {% assign content = post.content | strip_newlines %}
-            <div class="col-md-4 text-center" style="">
-              <div class="card"
-                style="display: flex; justify-content: center; padding:8px; min-height:100px; border: 0; margin:10px 4px; box-shadow: 0 0 10px 5px rgba(0,0,0,0.045)">
-                {% if posts.content == blank  %}
-                <h5 class="card-title">{{ post.title }}</h5>
-                {% else %}
-                <h5 class="card-title">
-                  <a href="{{ posts.url }}">{{ posts.title   }}</a></h5>
-                {% endif %}
-                <h6 class="card-subtitle mb-2 text-muted">{{ posts.Firs  }}</h6>
-
-              </div>
-            </div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-
-    </div>
-
-  </div>
-  <br />
 
 **Justifications for the Treatment of Abies**
 
