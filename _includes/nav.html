@@ -1,22 +1,56 @@
 <nav class="py-2 border-bottom navbar-dark">
   <div class="container d-flex flex-wrap">
     <ul class="nav me-auto">
-      <li class="nav-item">
-        <a href="/" class="nav-link link-dark px-2 active" aria-current="page"><strong>Tree TSAR</strong></a>
+      <li class="nav-item d-none d-sm-block">
+        <a
+          href="/"
+          class="nav-link link-dark {% if page.title contains 'Simmons Farm Trees' %}active{% endif %}"
+          aria-current="page"
+          ><strong>Simmons Farm Trees</strong></a
+        >
+      </li>
+      <li class="nav-item d-block d-sm-none">
+        <a
+          href="/"
+          class="nav-link link-dark {% if page.title contains 'Simmons Farm Trees' %}active{% endif %}"
+          aria-current="page"
+          ><strong>Home</strong></a
+        >
       </li>
 
-      <li class="nav-item">
-        <a href="/about" class="nav-link link-dark px-2">About</a>
+      <li class="nav-item d-none d-sm-block">
+        <a
+          href="/trees"
+          class="nav-link link-dark {% if page.title contains 'Tree Index' %} active{% endif %}"
+          >Tree Index
+          <span class="badge bg-primary rounded-pill"
+            >{{ site.documents | size}}</span
+          ></a
+        >
       </li>
-      <li class="nav-item">
-        <a href="/pricing" class="nav-link link-dark px-2">Pricing</a>
+      <li class="nav-item d-block d-sm-none">
+        <a
+          href="/trees"
+          class="nav-link link-dark {% if page.title contains 'Tree Index' %} active{% endif %}"
+          >Trees</a
+        >
       </li>
     </ul>
     <ul class="nav">
       <li class="nav-item">
-        <a href="/contact" class="nav-link link-dark px-2">Contact</a>
+        <a
+          href="/pricing"
+          class="nav-link link-dark {% if page.url contains '/pricing' %} active{% endif %}"
+          >Pricing</a
+        >
+      </li>
+      <li class="nav-item">
+        <a
+          href="/contact"
+          class="nav-link link-dark px-2 {% if page.url contains '/contact' %}active{% endif %}"
+          >Contact</a
+        >
       </li>
     </ul>
   </div>
 </nav>
-
