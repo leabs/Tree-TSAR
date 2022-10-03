@@ -38,3 +38,31 @@ collections:
     source: abies.json
     id_key: Abies
     layout: post
+
+pricing-1:
+  name: "> 1 Acre"
+  cost: 15
+  includes:
+    - "something 1"
+    - "something 2"
+    - "something 3"
+    - "something 4"
+
+pricing-2:
+  name: "1-5 Acres"
+  cost: 150
+  includes:
+    - "something 1"
+    - "something 2"
+    - "something 3"
+    - "something 4"
+
+pricing-3:
+  name: "6+ Acres"
+  cost: 299
+  includes:
+    - "something 1"
+    - "something 2"
+    - "something 3"
+    - "something 4"
+
