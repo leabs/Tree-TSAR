@@ -25,9 +25,19 @@
       </li>
       
       <li class="nav-item">
-        <a href="/contact" class="nav-link link-dark px-2">Contact</a>
+        <a
+          href="/pricing"
+          class="nav-link link-dark {% if page.url contains '/pricing' %} active{% endif %}"
+          >Pricing</a
+        >
+      </li>
+      <li class="nav-item">
+        <a
+          href="/contact"
+          class="nav-link link-dark px-2 {% if page.url contains '/contact' %}active{% endif %}"
+          >Contact</a
+        >
       </li>
     </ul>
   </div>
 </nav>
-
