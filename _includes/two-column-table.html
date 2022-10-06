@@ -13,7 +13,7 @@
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
          <a href="/abies/{{ pair[1] | downcase | replace: " ","_" | replace ".", "" }}.html">{{ pair[1] }}</a>
-        {% elsif thecycle == "Section" %}
+        {% elsif thecycle contains "Section" %}
         <strong>{{ pair[1] }}</strong>
       {% else %}
         {{ pair[1] }}
