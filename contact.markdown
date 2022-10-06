@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: three-column
 title: Contact
 permalink: /contact/
 subtitle: Ready to start your next project with us?

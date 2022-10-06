@@ -1,33 +1,33 @@
-<nav class="py-2 border-bottom navbar-dark">
+<nav class="py-2 navbar-dark">
   <div class="container d-flex flex-wrap">
     <ul class="nav me-auto">
       <li class="nav-item">
-        <a href="/" class="nav-link link-dark px-2 active" aria-current="page"><strong>Home</strong></a>
+        <a href="/" class="nav-link link-dark px-2" >Home</a>
       </li>
       <li class="nav-item">
-        <a href="/pricing" class="nav-link link-dark px-2">Consults</a>
+        <a href="/consults" class="nav-link link-dark px-2 {% if page.url contains '/consults' %} active{% endif %}">Consults</a>
       </li>
       <li class="nav-item">
-        <a href="/trees" class="nav-link link-dark px-2">Tree TSAR</a>
+        <a href="/trees" class="nav-link link-dark px-2 {% if page.url contains '/trees' %} active{% endif %}">Tree TSAR</a>
       </li>
       <li class="nav-item">
-        <a href="/about" class="nav-link link-dark px-2">About Us</a>
+        <a href="/about" class="nav-link link-dark px-2 {% if page.url contains '/about' %} active{% endif %}">About Us</a>
       </li>
 
       <li class="nav-item">
-        <a href="#" class="nav-link link-dark px-2">Resources</a>
+        <a href="/resources" class="nav-link link-dark px-2 {% if page.url contains '/resources' %} active{% endif %}">Resources</a>
       </li>
       <li class="nav-item">
-        <a href="#" class="nav-link link-dark px-2">LBGA</a>
+        <a href="/lbga" class="nav-link link-dark px-2  {% if page.url contains '/lbga' %} active{% endif %}">LBGA</a>
       </li>
       <li class="nav-item">
-        <a href="#" class="nav-link link-dark px-2">Artist's Nookt</a>
+        <a href="/artists-nook" class="nav-link link-dark px-2 {% if page.url contains '/artists-nook' %} active{% endif %}">Artist's Nook</a>
       </li>
       
       <li class="nav-item">
         <a
           href="/pricing"
-          class="nav-link link-dark {% if page.url contains '/pricing' %} active{% endif %}"
+          class="nav-link link-dark px-2 {% if page.url contains '/pricing' %} active{% endif %}"
           >Pricing</a
         >
       </li>

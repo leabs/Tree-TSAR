@@ -1,6 +1,6 @@
 ---
 title: Tree Index
-layout: home
+layout: three-column
 permalink: "/trees/"
 subtitle: "Cutting-edge PhD biologist reviewed horticultural information with simple explanations."
 ---
