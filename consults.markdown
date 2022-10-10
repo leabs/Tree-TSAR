@@ -19,3 +19,5 @@ Simmons Farm at Limeledge provides low-cost consulting services to homeowners, l
 | Landowners; more than 10.0 acres   | Inquire        | 
 | Contractors or municipalities; less than $1000   | 17% of total project cost       | 
 | Contractors or municipalities; more than $1000s   | 15% of total project cost        | 
+
+{% include cta.html %}
