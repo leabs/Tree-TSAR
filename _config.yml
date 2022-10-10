@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Simmons Farm Trees
+title: Simmons Farm At Limeledge
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -38,31 +38,4 @@ collections:
     source: abies.json
     id_key: Abies
     layout: post
-
-pricing-1:
-  name: "> 1 Acre"
-  cost: 15
-  includes:
-    - "something 1"
-    - "something 2"
-    - "something 3"
-    - "something 4"
-
-pricing-2:
-  name: "1-5 Acres"
-  cost: 150
-  includes:
-    - "something 1"
-    - "something 2"
-    - "something 3"
-    - "something 4"
-
-pricing-3:
-  name: "6+ Acres"
-  cost: 299
-  includes:
-    - "something 1"
-    - "something 2"
-    - "something 3"
-    - "something 4"
 
