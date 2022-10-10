@@ -2,7 +2,7 @@
 layout: three-column
 id: index
 title: Simmons Farm At Limeledge
-subtitle: "Cutting-edge  PhD biologist reviewed horticultural information with simple explanations."
+subtitle: "The experts at Simmons Farm will help you design a dream garden unlike any other, and at a price that can’t be matched for the information."
 ---
 {% include consults-tsar-selection.html %}
 
