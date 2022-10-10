@@ -22,6 +22,7 @@
       integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
       crossorigin="anonymous"
     />
+    
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -54,6 +55,19 @@
         color: green !important;
         background: #fafafa !important;
       }
+      /* The hero image */
+      .hero-image {
+        background: rgba(245, 246, 252, 0.842); /* fallback for old browsers */
+        background-image:
+          linear-gradient(to bottom, rgba(245, 246, 252, 0.842), rgba(255, 255, 255, 0.123)),
+          url("../assets/images/banner.jpg");
+        min-height: 280px;
+        /* Position and center the image to scale nicely on all screens */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      }
     </style>
   </head>
 
@@ -75,7 +89,7 @@
       ga("set", "transport", "beacon");
       ga("send", "pageview");
     </script>
-    <script src="https://www.google-analytics.com/analytics.js" async></script>
+    <script src="#" async></script>
     <!-- JavaScript Bundle with Popper -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"

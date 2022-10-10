@@ -1,37 +1,41 @@
-<nav class="py-2 navbar-dark">
-  <div class="container d-flex flex-wrap">
+
+
+<div class="d-flex flex-column flex-shrink-0 p-3 " style="width: 100%;">
+  <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
     <img alt="logo image for Simmons tree farm" width="160px" src="../assets/images/logo.jpg" />
-    <ul class="nav me-auto">
-      <li class="nav-item">
-        <a href="/" class="nav-link link-dark px-2" >Home</a>
-      </li>
-      <li class="nav-item">
-        <a href="/consults" class="nav-link link-dark px-2 {% if page.url contains '/consults' %} active{% endif %}">Consults</a>
-      </li>
-      <li class="nav-item">
-        <a href="/trees" class="nav-link link-dark px-2 {% if page.url contains '/trees' %} active{% endif %}">Tree TSAR</a>
-      </li>
-      <li class="nav-item">
-        <a href="/about" class="nav-link link-dark px-2 {% if page.url contains '/about' %} active{% endif %}">About Us</a>
-      </li>
+  </a>
+  <hr>
+  <ul class="nav nav-pills flex-column mb-auto">
+    <li class="nav-item">
+      <a href="/" class="nav-link link-dark px-2 {% if page.id == 'index' %} active{% endif %}" >Home</a>
+    </li>
+    <li class="nav-item">
+      <a href="/consults" class="nav-link link-dark px-2 {% if page.url contains '/consults' %} active{% endif %}">Consults</a>
+    </li>
+    <li class="nav-item">
+      <a href="/trees" class="nav-link link-dark px-2 {% if page.url contains '/trees' %} active{% endif %}">Tree TSAR</a>
+    </li>
+    <li class="nav-item">
+      <a href="/about" class="nav-link link-dark px-2 {% if page.url contains '/about' %} active{% endif %}">About Us</a>
+    </li>
 
-      <li class="nav-item">
-        <a href="/resources" class="nav-link link-dark px-2 {% if page.url contains '/resources' %} active{% endif %}">Resources</a>
-      </li>
-      <li class="nav-item">
-        <a href="/lbga" class="nav-link link-dark px-2  {% if page.url contains '/lbga' %} active{% endif %}">LBGA</a>
-      </li>
-      <li class="nav-item">
-        <a href="/artists-nook" class="nav-link link-dark px-2 {% if page.url contains '/artists-nook' %} active{% endif %}">Artist's Nook</a>
-      </li>
+    <li class="nav-item">
+      <a href="/resources" class="nav-link link-dark px-2 {% if page.url contains '/resources' %} active{% endif %}">Resources</a>
+    </li>
+    <li class="nav-item">
+      <a href="/lbga" class="nav-link link-dark px-2  {% if page.url contains '/lbga' %} active{% endif %}">LBGA</a>
+    </li>
+    <li class="nav-item">
+      <a href="/artists-nook" class="nav-link link-dark px-2 {% if page.url contains '/artists-nook' %} active{% endif %}">Artist's Nook</a>
+    </li>
 
-      <li class="nav-item">
-        <a
-          href="/contact"
-          class="nav-link link-dark px-2 {% if page.url contains '/contact' %}active{% endif %}"
-          >Contact</a
-        >
-      </li>
-    </ul>
-  </div>
-</nav>
+    <li class="nav-item">
+      <a
+        href="/contact"
+        class="nav-link link-dark px-2 {% if page.url contains '/contact' %}active{% endif %}"
+        >Contact</a
+      >
+    </li>
+  </ul>
+</div>
+
