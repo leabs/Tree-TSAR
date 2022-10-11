@@ -90,3 +90,9 @@ tbody td, thead th{
 thead th{
   text-align:center;
 }
+
+@media only screen and (max-width: 767px) {
+ #mySidebar{
+    display:none;
+ }
+}
