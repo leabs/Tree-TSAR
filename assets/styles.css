@@ -62,7 +62,7 @@ html{
 
 /* Sections */
 section.section{
-  margin-bottom:60px;
+  margin:60px 0;
 }
 main{
   min-height:500px;
@@ -92,4 +92,16 @@ thead th{
  #mySidebar{
     display:none;
  }
+ #consult-tsar-section .row .col-md-6{
+   margin-bottom:60px;
+ }
+ #consult-tsar-section .row .col-md-6 img{
+  max-width:240px !important;
+}
+.hero-text h1{
+  font-size: 1.65rem;
+}
+.hero-text p{
+  font-size: 1.1rem;
+}
 }

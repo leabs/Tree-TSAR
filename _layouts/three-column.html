@@ -3,14 +3,16 @@ layout: default
 ---
 <div class="container">
     {% include top-ad.html %}
-    <section class="section">
+    <section>
     <div class="row">
         <div class="col-lg-2 col-md-4">
         {% include nav.html %}
         </div>
         <div class="col-lg-9 col-md-8">
             {% include hero.html %}
-        {{content}}
+            <main>
+                {{content}}
+            </main>
         </div>
         
     </div>
