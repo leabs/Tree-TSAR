@@ -1,5 +1,5 @@
 ---
 Abies: chensiana
 Firs: River fir
-layout: post
+layout: three-column
 ---

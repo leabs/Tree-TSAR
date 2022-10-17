@@ -1,5 +1,5 @@
 ---
 Abies: cephalonica
 Firs: Greek fir
-layout: post
+layout: three-column
 ---

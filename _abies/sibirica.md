@@ -1,5 +1,5 @@
 ---
 Abies: sibirica
 Firs: Siberian fir
-layout: post
+layout: three-column
 ---

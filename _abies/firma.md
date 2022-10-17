@@ -1,5 +1,5 @@
 ---
 Abies: firma
 Firs: Momi fir
-layout: post
+layout: three-column
 ---

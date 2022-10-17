@@ -1,5 +1,5 @@
 ---
 Abies: ernestii
 Firs: Wilson's fir
-layout: post
+layout: three-column
 ---

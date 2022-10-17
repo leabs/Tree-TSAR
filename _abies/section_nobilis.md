@@ -1,5 +1,5 @@
 ---
 Abies: Section Nobilis
 Firs: Noble firs
-layout: post
+layout: three-column
 ---

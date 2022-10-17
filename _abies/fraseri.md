@@ -1,5 +1,5 @@
 ---
 Abies: fraseri
 Firs: Fraser fir
-layout: post
+layout: three-column
 ---

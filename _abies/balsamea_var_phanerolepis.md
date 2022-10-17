@@ -1,5 +1,5 @@
 ---
 Abies: balsamea var. phanerolepis
 Firs: Canaan fir
-layout: post
+layout: three-column
 ---

@@ -1,5 +1,5 @@
 ---
 Abies: lasiocarpa
 Firs: Subalpine fir
-layout: post
+layout: three-column
 ---

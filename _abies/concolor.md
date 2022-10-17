@@ -1,5 +1,5 @@
 ---
 Abies: concolor
 Firs: White fir
-layout: post
+layout: three-column
 ---

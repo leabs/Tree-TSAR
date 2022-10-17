@@ -1,5 +1,5 @@
 ---
 Abies: beshanzuensis
 Firs: Baishan fir
-layout: post
+layout: three-column
 ---

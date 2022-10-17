@@ -1,5 +1,5 @@
 ---
 Abies: pinsapo
 Firs: Spanish fir
-layout: post
+layout: three-column
 ---

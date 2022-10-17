@@ -1,5 +1,5 @@
 ---
 Abies: guatemalensis
 Firs: Guatemalan fir
-layout: post
+layout: three-column
 ---

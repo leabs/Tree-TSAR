@@ -36,4 +36,4 @@ collections:
     output: true
     source: abies.json
     id_key: Abies
-    layout: post
+    layout: three-column

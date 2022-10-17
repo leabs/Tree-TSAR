@@ -1,5 +1,5 @@
 ---
 Abies: homolepis
 Firs: Nikko fir
-layout: post
+layout: three-column
 ---

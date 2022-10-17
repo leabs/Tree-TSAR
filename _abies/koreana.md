@@ -1,5 +1,5 @@
 ---
 Abies: koreana
 Firs: Korean fir
-layout: post
+layout: three-column
 ---

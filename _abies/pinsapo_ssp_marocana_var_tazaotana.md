@@ -1,5 +1,5 @@
 ---
 Abies: pinsapo ssp. marocana var. tazaotana
 Firs: Tazaot mountain fir
-layout: post
+layout: three-column
 ---

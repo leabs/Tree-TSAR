@@ -1,5 +1,5 @@
 ---
 Abies: ziyuanensis
 Firs: Zhihuan fir
-layout: post
+layout: three-column
 ---

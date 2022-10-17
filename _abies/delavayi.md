@@ -1,5 +1,5 @@
 ---
 Abies: delavayi
 Firs: Delavay's fir
-layout: post
+layout: three-column
 ---

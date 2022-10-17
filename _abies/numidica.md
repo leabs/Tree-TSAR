@@ -1,5 +1,5 @@
 ---
 Abies: numidica
 Firs: Algerian fir
-layout: post
+layout: three-column
 ---

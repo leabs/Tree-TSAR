@@ -1,5 +1,5 @@
 ---
 Abies: mariesii
 Firs: Maries' fir
-layout: post
+layout: three-column
 ---

@@ -1,5 +1,5 @@
 ---
 Abies: cilicica ssp. isaurica
 Firs: Isaurian fir
-layout: post
+layout: three-column
 ---

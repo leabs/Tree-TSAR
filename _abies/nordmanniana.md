@@ -1,5 +1,5 @@
 ---
 Abies: nordmanniana
 Firs: Nordmann fir
-layout: post
+layout: three-column
 ---

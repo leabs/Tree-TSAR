@@ -1,5 +1,5 @@
 ---
 Abies: magnifica
 Firs: California red fir
-layout: post
+layout: three-column
 ---

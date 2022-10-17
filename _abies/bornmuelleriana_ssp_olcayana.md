@@ -1,5 +1,5 @@
 ---
 Abies: bornmuelleriana ssp. olcayana
 Firs: Chataldag fir
-layout: post
+layout: three-column
 ---

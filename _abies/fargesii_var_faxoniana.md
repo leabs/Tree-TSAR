@@ -1,5 +1,5 @@
 ---
 Abies: fargesii var. faxoniana
 Firs: Faxon's fir
-layout: post
+layout: three-column
 ---

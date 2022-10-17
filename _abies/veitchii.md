@@ -1,5 +1,5 @@
 ---
 Abies: veitchii
 Firs: Veitch's fir
-layout: post
+layout: three-column
 ---

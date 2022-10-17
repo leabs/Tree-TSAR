@@ -1,5 +1,5 @@
 ---
 Abies: densa
 Firs: Bhutan fir
-layout: post
+layout: three-column
 ---

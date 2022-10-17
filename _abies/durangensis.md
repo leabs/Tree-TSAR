@@ -1,5 +1,5 @@
 ---
 Abies: durangensis
 Firs: Durango fir
-layout: post
+layout: three-column
 ---

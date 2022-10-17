@@ -1,5 +1,5 @@
 ---
 Abies: fargesii
 Firs: Farges fir
-layout: post
+layout: three-column
 ---

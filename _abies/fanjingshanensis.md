@@ -1,5 +1,5 @@
 ---
 Abies: fanjingshanensis
 Firs: Fanjingshan fir
-layout: post
+layout: three-column
 ---

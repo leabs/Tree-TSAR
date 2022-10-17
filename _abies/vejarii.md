@@ -1,5 +1,5 @@
 ---
 Abies: vejarii
 Firs: Vejar's fir
-layout: post
+layout: three-column
 ---

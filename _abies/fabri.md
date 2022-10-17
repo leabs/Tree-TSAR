@@ -1,5 +1,5 @@
 ---
 Abies: fabri
 Firs: Faber's fir
-layout: post
+layout: three-column
 ---

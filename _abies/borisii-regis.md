@@ -1,5 +1,5 @@
 ---
 Abies: borisii-regis
 Firs: King Boris fir
-layout: post
+layout: three-column
 ---
