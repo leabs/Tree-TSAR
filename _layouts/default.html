@@ -13,9 +13,7 @@
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="apple-touch-icon" href="/assets/images/favicon.png" />
-    <link rel="icon" 
-      type="image/png" 
-      href="/assets/images/favicon.png">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
     <!-- Place favicon.ico in the root directory -->
 
     <link rel="stylesheet" href="../assets/normalize.css" />
@@ -25,7 +23,7 @@
       integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
       crossorigin="anonymous"
     />
-    
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -61,8 +59,11 @@
       /* The hero image */
       .hero-image {
         background: rgba(245, 246, 252, 0.95); /* fallback for old browsers */
-        background-image:
-          linear-gradient(to top, rgba(245, 246, 252, .9), rgba(255, 255, 255, 0.2)),
+        background-image: linear-gradient(
+            to top,
+            rgba(245, 246, 252, 0.9),
+            rgba(255, 255, 255, 0.2)
+          ),
           url("../assets/images/banner.jpg");
         min-height: 280px;
         /* Position and center the image to scale nicely on all screens */
@@ -75,7 +76,6 @@
   </head>
 
   <body>
-
     <div>{{ content }}</div>
 
     {% include footer.html %}
