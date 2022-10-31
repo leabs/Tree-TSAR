@@ -1,0 +1,372 @@
+Family,Genus,Infrageneric Level I,Infrageneric Level II,Infrageneric Level III,Infrageneric Level IV,Species,Common Name
+Pinaceae,,,,,,,Pine Family
+,Abies,,,,,,Fir
+,,Section Abies,,,,,
+,,,,,,alba,Silver fir
+,,,,,,borisii-regis,King Boris fir
+,,,,,,bornmuelleriana,Turkish fir
+,,,,,,bornmuelleriana ssp. equi-trojani,Trojan fir
+,,,,,,bornmuelleriana ssp. olcayana,Chataldag fir
+,,,,,,cephalonica,Greek fir
+,,,,,,cilicica,Cilician fir
+,,,,,,cilicica ssp. isaurica,Isaurian fir
+,,,,,,× insignis ,
+,,,,,,nebrodensis,Sicilian fir
+,,,,,,nordmanniana,Nordmann fir
+,,,,,,numidica,Algerian fir
+,,,,,,pinsapo,Spanish fir
+,,,,,,pinsapo ssp. marocana,Moroccan fir
+,,,,,,pinsapo ssp. marocana var. tazaotana,Mt. Tazaot fir
+,,,,,,× vilmorinii,
+,,Section Amabilis,,,,,
+,,,,,,amabilis,Pacific silver fir
+,,,,,,mariesii,Maries' fir
+,,Section Balsamea,,,,,
+,,,,,,× arnoldiana,
+,,,,,,balsamea,Balsam fir
+,,,,,,balsamea var. phanerolepis,Canaan fir
+,,,,,,fraseri,Fraser fir
+,,,,,,koreana,Korean fir
+,,,,,,lasiocarpa,Subalpine fir
+,,,,,,nephrolepis,Manchurian fir
+,,,,,,sachalinensis,Sakhalin fir
+,,,,,,sibirica,Siberian fir
+,,,,,,veitchii,Veitch's fir
+,,,,,,koreana × lasiocarpa ,Koreocarpa fir
+,,,,,,Section Bracteata,Bristlecone fir
+,,,,,,bracteata,Bristlecone fir
+,,,,,,Section Grandis,Grand firs
+,,,,,,concolor,White fir
+,,,,,,durangensis,Durango fir
+,,,,,,flinckii,Jalisco fir
+,,,,,,grandis,Grand fir
+,,,,,,guatemalensis,Guatemalan fir
+,,,,,,hickelii,Oaxacan fir
+,,,,,,religiosa,Sacred fir
+,,,,,,vejarii,Vejar's fir
+,,Section Nobilis,,,,,
+,,,,,,magnifica,California red fir
+,,,,,,procera,Noble fir
+,,,,,,× shastensis,Shasta fir
+,,Section Pseudopicea,,,,,
+,,,,,,beshanzuensis,Baishan fir
+,,,,,,× chengii,Cheng's fir
+,,,,,,chensiana,River fir
+,,,,,,delavayi,Delavay's fir
+,,,,,,densa,Bhutan fir
+,,,,,,ernestii,Wilson's fir
+,,,,,,fabri,Faber's fir
+,,,,,,fanjingshanensis,Fanjingshan fir
+,,,,,,fargesii,Farges fir
+,,,,,,fargesii var. faxoniana,Faxon's fir
+,,,,,,firma,Momi fir
+,,,,,,forrestii,Forrest's fir
+,,,,,,georgei,Rusty fir
+,,,,,,holophylla,Needle fir
+,,,,,,homolepis,Nikko fir
+,,,,,,nukiangensis,Nukiang fir
+,,,,,,pindrow,West Himalayan fir
+,,,,,,recurvata,Min fir
+,,,,,,salouenensis,Salween fir
+,,,,,,spectabilis,East Himalayan fir
+,,,,,,squamata,Flaky fir
+,,,,,,× umbellata ,Dimplecone fir
+,,,,,,yuanbaoshanensis,Yuanbaoshan fir
+,,,,,,ziyuanensis,Zhihuan fir
+,Cathaya,,,,,,Silver-fir
+,,,,,,argyrophylla,Chinese silver-fir
+,Cedrus,,,,,,
+,,,,,,atlantica,Atlas cedar
+,,,,,,brevifolia,Cypriot cedar
+,,,,,,deodara,Deodar cedar
+,,,,,,libani ,Cedar of Lebanon
+,,,,,,libani var. stenocoma,Taurus cedar
+,Keteleeria,,,,,davidiana,
+,,,,,,evelyniana,
+,,,,,,fortunei,
+,Larix,,,,,,Larch
+,,North American Clade,,,,,
+,,,,,,laricina,American larch
+,,,,,,lyallii,Alpine larch
+,,,,,,occidentalis,Western larch
+,,North Eurasian Clade,,,,,
+,,,,,,archangelica,Russian larch
+,,,,,,× czekanowskii,Taiga larch
+,,,,,,decidua,European larch
+,,,,,,decidua var. carpatica,Carpathian larch
+,,,,,,decidua var. polonica,Polish larch
+,,,,,,gmelinii,Dahurian larch
+,,,,,,gmelinii var. japonica,Kuril larch
+,,,,,,gmelinii var. olgensis,Olga Bay Larch
+,,,,,,gmelinii var. principis-rupprechtii,North China larch
+,,,,,,kaempferi,Japanese larch
+,,,,,,× marschlinsii,Dunkeld larch
+,,,,,,sibirica,Siberian larch
+,,South Asian Clade,,,,,
+,,,,,,griffithii,Sikkim larch
+,,,,,,griffithii var. speciosa,Yunnan larch
+,,,,,,kongboensis,Kongbo larch
+,,,,,,mastersiana,Sichuan larch
+,,,,,,potaninii,Rusty larch
+,,,,,,potaninii var. chinensis,Chinese larch
+,,,,,,potaninii var. himalaica,Langtang larch
+,Nothotsuga,,,,,,Bristlecone-hemlock
+,,,,,,longibracteata,Bristlecone-hemlock
+,Picea,,,,,,Spruce
+,,,,,,abies,Norway spruce
+,,,,,,× albertiana,
+,,,,,,alcoquiana,Alcock spruce
+,,,,,,alcoquiana var. acicularis,
+,,,,,,alcoquiana var. reflexa,
+,,,,,,asperata,Dragon spruce
+,,,,,,asperata var. notabilis,
+,,,,,,asperata var. ponderosa,
+,,,,,,aurantiaca,Orange spruce
+,,,,,,brachytyla,Sargent spruce
+,,,,,,brachytyla var. complanata,
+,,,,,,chihuahuana,Chihuahua spruce
+,,,,,,crassifolia,Qinghai spruce
+,,,,,,engelmannii,Engelmann spruce
+,,,,,,engelmannii ssp. mexicana,Mexican spruce
+,,,,,,farreri,Burmese spruce
+,,,,,,× fennica,
+,,,,,,glauca,White spruce
+,,,,,,glauca var. densata,Black Hills spruce
+,,,,,,glehnii,Sakhalin spruce
+,,,,,,jezoensis,Yezo spruce
+,,,,,,jezoensis ssp. jezoensis var. komarovii,Yellow Yezo spruce
+,,,,,,jezoensis ssp. hondoensis,Hondo spruce
+,,,,,,koraiensis,Korean spruce
+,,,,,,koyamae,Koyama spruce
+,,,,,,likiangensis,Lijiang spruce
+,,,,,,likiangensis var. hirtella,
+,,,,,,likiangensis var. linzhiensis,
+,,,,,,likiangensis var. rubescens,
+,,,,,,× lutzii,Lutz's spruce
+,,,,,,mariana,Black spruce
+,,,,,,martinezii,Nuevo León spruce
+,,,,,,maximowiczii,Japanese bush spruce
+,,,,,,meyeri,Meyer spruce
+,,,,,,morrisonicola,Taiwan spruce
+,,,,,,neoveitchii,Hubei spruce
+,,,,,,obovata ,Siberian spruce
+,,,,,,omorika,Serbian spruce
+,,,,,,orientalis,Oriental spruce
+,,,,,,pungens,Colorado blue spruce
+,,,,,,purpurea,Purplecone spruce
+,,,,,,retroflexa,Tapaoshan spruce
+,,,,,,rubens,Red spruce
+,,,,,,schrenkiana,Snowridge spruce
+,,,,,,schrenkiana ssp. tianschanica,Tianshan spruce
+,,,,,,sikangensis,
+,,,,,,sitchensis,Sitka spruce
+,,,,,,smithiana,Morinda spruce
+,,,,,,spinulosa,Sikkim spruce
+,,,,,,torano,Tigertail spruce
+,,,,,,wilsonii,Wilson's spruce
+,Pinus,,,,,,Pine
+,,Subgenus Pinus,,,,,
+,,,Section Pinus,,,,
+,,,,Subsection Pinus,,,
+,,,,,,densata,Sikang pine
+,,,,,,densiflora,Japanese red pine
+,,,,,,densiflora var. ussuriensis,Ussurian red pine
+,,,,,,densiflora var. zhangwuensis,Zhangwu red pine
+,,,,,,× densithunbergii,Japanese hybrid pine
+,,,,,,henryi,Henry's pine
+,,,,,,hwangshanensis,Huangshan pine
+,,,,,,kesiya,Khasi pine
+,,,,,,latteri,Tenasserim pine
+,,,,,,luchuensis,Luchu pine
+,,,,,,massoniana,Chinese red pine
+,,,,,,merkusii,Sumatran pine
+,,,,,,mugo,Dwarf mountain pine
+,,,,,,× neilreichiana,
+,,,,,,nigra,Austrian pine
+,,,,,,nigra ssp. dalmatica,Dalmatian pine
+,,,,,,nigra ssp. laricio,Corsican pine
+,,,,,,nigra ssp. pallasiana,Crimean pine
+,,,,,,nigra ssp. salzmannii,Spanish pine
+,,,,,,resinosa,American red pine
+,,,,,, rhaetica,Rhaetic pine
+,,,,,,× rotundata,European mountain pine
+,,,,,,sylvestris,Scotch pine
+,,,,,,tabuliformis,Chinese red pine
+,,,,,,tabuliformis var. mukdensis,North Korean pine
+,,,,,,tabuliformis var. umbraculifera,
+,,,,,,taiwanensis,Taiwan red pine
+,,,,,,thunbergii,Japanese black pine
+,,,,,,tropicalis,Tropical pine
+,,,,,,uncinata,Swiss mountain pine
+,,,,,,yunnanensis,Yunnan pine
+,,,,Subsection Pinaster,,,
+,,,,,,brutia,Turkish pine
+,,,,,,brutia var. eldarica,Calabrian pine
+,,,,,,canariensis,Canary Island pine
+,,,,,,halepensis,Aleppo pine
+,,,,,,heldreichii,Bosnian pine
+,,,,,,heldreichii var. leucodermis,Whitebark Bosnian pine
+,,,,,,pinaster,Maritime pine
+,,,,,,pinea,Italian stone pine
+,,,,,,roxburghii,Chir pine
+,,,Section Trifoliae,,,,
+,,,,Subsection Attenuatae,,,
+,,,,,,attenuata,Knobcone pine
+,,,,,,× attenuradiata,KMX pine
+,,,,,,muricata,Bishop pine
+,,,,,,radiata,Monterey pine
+,,,,,,radiata var. binata,Guadelupe Island pine
+,,,,Subsection Australes,,,
+,,,,,,caribaea,Caribbean pine
+,,,,,,cubensis,Cuban pine
+,,,,,,echinata,Shortleaf pine
+,,,,,,elliottii,Slash pine
+,,,,,,georginae,Amado's pine
+,,,,,,glabra,Spruce pine
+,,,,,,greggii,Gregg pine
+,,,,,,herrerae,Herrera pine
+,,,,,,jaliscana,Jalisco pine
+,,,,,,lawsonii,Lawson's pine
+,,,,,,leiophylla,Smoothleaf pine
+,,,,,,leiophylla var. chihuahuana,Chihuahua pine
+,,,,,,lumholtzii,Lumholtz weeping pine
+,,,,,,luzmariae,Three-needle eggcone pine
+,,,,,,occidentalis,Hispaniola pine
+,,,,,,oocarpa,Mexican eggcone pine
+,,,,,,palustris,Longleaf pine
+,,,,,,patula,Mexican weeping pine
+,,,,,,praetermissa,Mexican scrub pine
+,,,,,,pringlei,Pringle's pine
+,,,,,,pungens,Table mountain pine
+,,,,,,rigida,Pitch pine
+,,,,,,serotina,Pond pine
+,,,,,,taeda,Loblolly pine
+,,,,,,tecunumanii,Mayan pine
+,,,,,,teocote,Aztec pine
+,,,,,,vallartensis,Puerto Vallarta pine
+,,,,Subsection Contortae,,,
+,,,,,,banksiana,Jack pine
+,,,,,,clausa,Ocala sand pine
+,,,,,,clausa var. immugenata,Choctawhatchee sand pine
+,,,,,,contorta,Shore pine
+,,,,,,contorta ssp. contorta var. bolanderi,Mendocino Sands shore pine
+,,,,,,contorta ssp. latifolia,Lodgepole pine
+,,,,,,contorta ssp. murrayana,Sierra lodgepole pine
+,,,,,,× murraybanksiana,Murraybanks pine
+,,,,,,virginiana,Virginia pine
+,,,,Subsection Ponderosae,,,
+,,,,,,arizonica,Arizona pine
+,,,,,,brachyptera,Southwestern yellow pine
+,,,,,,cooperi,Cooper's pine
+,,,,,,devoniana,Michoacan pine
+,,,,,,douglasiana,Douglas pine
+,,,,,,durangensis,Durango pine
+,,,,,,engelmanii,Apache pine
+,,,,,,hartwegii,Mexican mountain pine
+,,,,,,maximinoi,Thinleaf pine
+,,,,,,montezumae,Montezuma pine
+,,,,,,ponderosa,Ponderosa pine
+,,,,,,ponderosa ssp. benthamiana,Pacific pine
+,,,,,,ponderosa ssp. washoensis,Washoe pine
+,,,,,,pseudostrobus,Mexican smoothbark pine
+,,,,,,pseudostrobus var. apulcensis,Oaxacan pine
+,,,,,,scopulorum,Rocky Mountain yellow pine
+,,,,,,stormiae,Royal pine
+,,,,,,yecorensis,Sonora pine
+,,,,,,yecorensis var. sinaloensis,Sinaloa pine
+,,,,Subsection Sabinianae,,,
+,,,,,,coulteri,Coulter pine
+,,,,,,jeffreyi,Jeffrey pine
+,,,,,,sabiniana,Gray pine
+,,,,,,torreyana,Torrey pine
+,,Subgenus Strobus,,,,torreyana var. insularis,Island Torrey pine
+,,,Section Nelsonia,,,,
+,,,,,,nelsonii,Nelson's pine
+,,,Section Parrya,,,,
+,,,,Subsection Balfourianae,,,
+,,,,,,aristata,Rocky Mountain bristlecone pine
+,,,,,,balfouriana,Northern foxtail pine
+,,,,,,balfouriana ssp. austrina,Southern foxtail pine
+,,,,,,longaeva,Great Basin bristlecone pine
+,,,,Subsection Cembroides,,,
+,,,,,,cembroides,Mexican pinyon
+,,,,,,cembroides ssp. lagunae,Laguna pinyon
+,,,,,,culminicola,Potosi pinyon
+,,,,,,discolor,Border pinyon
+,,,,,,edulis,Colorado pinyon
+,,,,,,johannis,Dwarf pinyon
+,,,,,,monophylla,Singleleaf pinyon
+,,,,,,monophylla var. californiarum,California singleleaf pinyon
+,,,,,,monophylla var. fallax,Arizona singleleaf pinyon
+,,,,,,orizabensis,Orizaba pinyon
+,,,,,,quadrifolia,Parry pinyon
+,,,,,,remota,Texas pinyon
+,,,,Subsection Rzedowskiae,,,
+,,,,,,maximartinezii,Bigcone pinyon
+,,,,,,pinceana,Weeping pinyon
+,,,,,,rzedowskii,Rzedowski's pinyon
+,,,Section Quinquefoliae,,,,
+,,,,Subsection Gerardianae,,,
+,,,,,,bungeana,Lacebark pine
+,,,,,,gerardiana,Chilgoza pine
+,,,,,,squamata,Qiaojia pine
+,,,,Subsection Krempfianae,,,
+,,,,,,krempfii,Broadleaf pine
+,,,,Subsection Strobus,,,
+,,,,,,amamiana,Yakushima white pine
+,,,,,,albicaulis,Whitebark pine
+,,,,,,armandii,Chinese white pine
+,,,,,,armandii var. mastersiana,Masters white pine
+,,,,,,ayacahuite,Mexican white pine
+,,,,,,bhutanica,Bhutan pine
+,,,,,,cembra,Swiss stone pine
+,,,,,,cernua,Laotian white pine
+,,,,,,chiapensis,Chiapas white pine
+,,,,,,dalatensis,Vietnamese white pine
+,,,,,,fenzeliana,Hainan white pine
+,,,,,,fenzeliana var. dabeshanensis,Small-needle Hainan white pine
+,,,,,,flexilis,Limber pine
+,,,,,,× hakkodensis,Hakkodo pine
+,,,,,,koraiensis,Korean pine
+,,,,,,kwangtungensis,Hunan white pine
+,,,,,,lambertiania,Sugar pine
+,,,,,,monticola,Western white pine
+,,,,,,morrisonicola,Taiwan white pine
+,,,,,,parviflora,Japanese white pine
+,,,,,,parviflora var. pentaphylla,Winged Japanese white pine
+,,,,,,peuce,Macedonian pine
+,,,,,,pumila,Siberian dwarf pine
+,,,,,,sibirica,Siberian pine
+,,,,,,strobiformis,Chihuahua white pine
+,,,,,,strobiformis ssp. veitchii,Bigcone white pine
+,,,,,,strobus,Eastern white pine
+,,,,,,stylesii,Southwestern white pine
+,,,,,,wallichiana,Himalayan white pine
+,,,,,,wangii,Guangdong white pine
+,Pseudolarix,,,,,,Golden-larch
+,,,,,,amabilis,Golden-larch
+,Pseudotsuga,,,,,,Douglas-fir
+,,,,,,brevifolia,Shortleaf Douglas-fir
+,,,,,,forrestii,Lancang Douglas-fir
+,,,,,,japonica,Japanese Douglas-fir
+,,,,,,macrocarpa,Bigcone Douglas-fir
+,,,,,,menziesii,Coast Douglas-fir
+,,,,,,menziesii ssp. glauca,Interior Douglas-fir
+,,,,,,sinensis,Chinese Douglas-fir
+,,,,,,sinensis var. gaussenii,Anhui Douglas-fir
+,,,,,,wilsoniana,Taiwan Douglas-fir
+,Tsuga,,,,,,Hemlock
+,,,,,,canadensis,Eastern hemlock
+,,,,,,caroliniana,Carolina hemlock
+,,,,,,chinensis,Chinese hemlock
+,,,,,,chinensis var. oblongisquamata,Long-scale Chinese hemlock
+,,,,,,chinensis var. robusta,
+,,,,,,chinensis var. tchekiangensis,
+,,,,,,diversifolia,Northern Japanese hemlock
+,,,,,,dumosa,Himalayan hemlock
+,,,,,,formosana,Taiwan hemlock
+,,,,,,forrestii,Lijiang hemlock
+,,,,,,heterophylla,Western hemlock
+,,,,,,mertensiana,Mountain hemlock
+,,,,,,sieboldii,Southern Japanese hemlock
+,,,,,,ulleungensis,Ullung hemlock
