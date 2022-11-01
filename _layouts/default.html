@@ -27,18 +27,16 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!--import lumberjack font locally from assets folder-->
-    <link
-      href="../assets/Lumberjack.otf"
-      type="font/otf"
-      crossorigin="anonymous"
-      />
 
     <link rel="stylesheet" href="../assets/styles.css" />
     <link rel="stylesheet" href="../assets/variables.css" async />
     <meta name="theme-color" content="#fafafa" />
     <!--Critical CSS styles-->
     <style>
+      @font-face {
+    font-family: Lumberjack;
+    src: url("../assets/Lumberjack.otf") format("opentype");
+    }
       .btn-primary {
         --bs-btn-color: #fff;
         --bs-btn-bg: #4d621e;
