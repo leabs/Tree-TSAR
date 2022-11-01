@@ -27,11 +27,14 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!--import lumberjack font locally from assets folder-->
     <link
-      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Open+Sans&display=swap"
-      rel="stylesheet"
-      async
-    />
+      href="../assets/Lumberjack.otf"
+      rel="preload"
+      as="font"
+      type="font/otf"
+      crossorigin="anonymous"
+      />
 
     <link rel="stylesheet" href="../assets/styles.css" />
     <link rel="stylesheet" href="../assets/variables.css" async />
@@ -73,6 +76,11 @@
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
+      }
+      /*set heading as lumberjack font*/
+      h1, .lumberjack {
+        font-family: "Lumberjack", sans-serif;
+
       }
     </style>
   </head>
