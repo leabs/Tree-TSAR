@@ -6,4 +6,4 @@ subtitle: Learn more about what we do.
 
 ---
 
-About us
+More information coming soon… stay tuned!

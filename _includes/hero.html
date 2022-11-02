@@ -9,16 +9,21 @@
     <p>{{ page.Firs }} {{ page.subtitle }}</p>
   </div>
 </div>
-{% elsif page.url contains '/trees' %}
 
 {% else %}
-<div style="padding: 16px 0">
-
-    <h1 style="color:#c55a11; font-size:4rem; -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;">
-     
-      {{ page.title }} 
-    </h1>
-
+<div style="padding: 6px 0">
+  <h1
+    style="
+      color: #c55a11;
+      font-size: 4rem;
+      -webkit-text-stroke-width: 2px;
+      -webkit-text-stroke-color: black;
+    "
+  >
+  {% if page.alternate-title %} {{page.alternate-title}}
+  {% elsif page.url contains '/trees' %}
+  
+  {% else %}{{ page.title }} {% endif %}
+  </h1>
 </div>
 {% endif %}

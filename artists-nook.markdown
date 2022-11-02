@@ -5,4 +5,4 @@ permalink: /artists-nook/
 subtitle: "Some subtitle for this page."
 ---
 
-Artist's Nook
+More information coming soon… stay tuned!

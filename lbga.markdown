@@ -5,4 +5,4 @@ permalink: /lbga/
 subtitle: "Some subtitle for this page."
 ---
 
-LBGA page
+More information coming soon… stay tuned!

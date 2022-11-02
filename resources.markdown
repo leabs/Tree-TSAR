@@ -5,4 +5,4 @@ permalink: /resources/
 subtitle: "Additional resources to help you."
 ---
 
-Resources page
+More information coming soon… stay tuned!
