@@ -5,13 +5,13 @@ permalink: /contact/
 subtitle: Ready to start your next project with us?
 ---
 
-<section class="section">
+<section>
 <div class="row">
 <form
   action="https://formspree.io/f/xyyvynpq"
   method="POST"
 >
-      <div class="col-md-6" style="margin:0 auto; margin-bottom:40px;">
+      <div class="col-md-6" style="margin-bottom:40px;">
         <div class="well well-sm">
           <form class="form-horizontal" action="" method="post">
           <fieldset>

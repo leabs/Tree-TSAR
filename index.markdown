@@ -16,3 +16,5 @@ Hard work and hands-on experience are the best teachers. Great gardeners and lan
 Having a bit of assistance getting started certainly helps thoughm and at Simmons Farm we believe in giving everybody the opportunity to set up a fulfilling hobby garden, permaculture area, edible landscape, or achieving whatever objectives you have un mind for your plantings. You don't need a green thumb to be successful with plants; a bit of knowledge and work ethic go a long way!
 
 The experts at Simmons Farm will help you design a dream garden unlike any other, and at a price that can't be matched for the information.
+
+{% include cta.html %}

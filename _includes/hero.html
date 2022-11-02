@@ -1,18 +1,24 @@
-<div class="hero-image" >
-
+{% if page.id == 'index' %}
+<div class="hero-image">
   <div class="hero-text">
-    
     <h1>
       <!--If homepage say homepage as title, else use page title-->
-      {% if page.title == 'Homepage' %}
-       Tree TSAR
-      {% else %}
-        {{ page.title }}
-      {% endif %}
+      {% if page.title == 'Homepage' %} Tree TSAR {% else %} {{ page.title }} {%
+      endif %}
     </h1>
-    <p>
-      {{ page.Firs }}
-      {{ page.subtitle }}
-    </p>
+    <p>{{ page.Firs }} {{ page.subtitle }}</p>
   </div>
 </div>
+{% elsif page.url contains '/trees' %}
+
+{% else %}
+<div style="padding: 16px 0">
+
+    <h1 style="color:#c55a11; font-size:4rem; -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;">
+     
+      {{ page.title }} 
+    </h1>
+
+</div>
+{% endif %}
