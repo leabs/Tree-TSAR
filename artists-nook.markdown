@@ -1,8 +1,8 @@
 ---
 layout: three-column
 title: Artist's Nook
-permalink: /artists-nook/
-subtitle: "Some subtitle for this page."
----
+permalink: "/artists-nook/"
+subtitle: Some subtitle for this page.
 
-More information coming soon… stay tuned!
+---
+More information coming soon… stay tuned!!
