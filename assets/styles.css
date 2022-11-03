@@ -105,11 +105,12 @@ thead th{
   padding-right: 4px;
 }
 .family-arrow{
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .genus-arrow {
   margin-left: 25px;
-  text-transform: uppercase;
+  text-transform: capitalize;
+  font-style: italic;
 }
 .species-arrow {
   margin-left: 50px;

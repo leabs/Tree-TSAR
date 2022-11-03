@@ -1,5 +1,7 @@
 ---
 Abies: alba
 Firs: Silver fir
-layout: three-column
+layout: species
+family: Pinaceae
+genus: Abies
 ---
