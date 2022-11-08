@@ -16,7 +16,7 @@
     <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
     <!-- Place favicon.ico in the root directory -->
 
-    <link rel="stylesheet" href="../assets/normalize.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/normalize.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
       async
@@ -28,14 +28,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-    <link rel="stylesheet" href="../assets/styles.css" />
-    <link rel="stylesheet" href="../assets/variables.css" async />
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/styles.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/variables.css" async />
     <meta name="theme-color" content="#fafafa" />
     <!--Critical CSS styles-->
     <style>
       @font-face {
     font-family: Lumberjack;
-    src: url("../assets/Lumberjack.otf") format("opentype");
+    src: url("{{site.baseurl}}/assets/Lumberjack.otf") format("opentype");
     }
       .btn-primary {
         --bs-btn-color: #fff;
@@ -83,7 +83,7 @@
 
   <body>
     <div>{{ content }}</div>
-    <script src="../assets/js/scripts.js" async></script>
+    <script src="{{site.baseurl}}/assets/js/scripts.js" async></script>
 
     
 

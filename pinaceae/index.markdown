@@ -2,12 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: genus
+layout: family
 title: Pinaceaes
-family: Conifer 
 subtitle: The Pinaceae, or pine family, are conifer trees or shrubs, including many of the well-known conifers of commercial importance such as cedars, firs, hemlocks, larches, pines and spruces.
+permalink: /trees/pinaceaes
 ---
 
+{% include two-column-table.html %}
 **Justifications for the Treatment of Abies**
 
 Infra-Abies delineations follow the combined nuclear, plastid, and morphological study of Xiang et al. (2018).

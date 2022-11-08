@@ -7,6 +7,8 @@ subtitle: "Cutting-edge PhD biologist reviewed horticultural information with si
 
 {% assign page.title = "/trees/" | split:"/" %}
 {% include search.html %}
+
+{% include family-list.html %}
 ### What’s in a name?
 
 The Tree TSAR is a searchable database focusing on woody plants for beginners, students, and professionals seeking to gain familiarity with the groups herein. Advances in fields such as molecular genetics have vastly improved our understanding of how plants are related, and this has resulted in name changes for many species. If the valid name for a species is determined to be something different from the name in common use, this can cause confusion. Even “official” sources such as textbooks, the International Plant Name Index (IPNI), Flora of North America, and organizations such as the USDA may find themselves in disagreement as they work to adopt the changes. In addition, some names remain hotly contested sources of debate.
