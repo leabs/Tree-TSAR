@@ -5,7 +5,7 @@
 layout: family
 title: Pinaceaes
 subtitle: The Pinaceae, or pine family, are conifer trees or shrubs, including many of the well-known conifers of commercial importance such as cedars, firs, hemlocks, larches, pines and spruces.
-permalink: /trees/pinaceaes
+permalink: /trees/pinaceae
 ---
 
 {% include two-column-table.html %}

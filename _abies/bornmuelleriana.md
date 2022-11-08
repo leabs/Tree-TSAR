@@ -1,5 +1,8 @@
 ---
 Abies: bornmuelleriana
 Firs: Turkish fir
-layout: three-column
+layout: species
+family: Pinaceae
+genus: Abies
+permalink: /trees/pinaceae/abies/bornmuelleriana
 ---
