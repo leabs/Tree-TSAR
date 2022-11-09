@@ -13,7 +13,7 @@
       {% tablerow pair in row %}
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
-         <a href="{{site.url }}/trees/pinaceae/abies/{{pair[1]}}">{{ pair[1] }}</a>
+         <a href="{{site.url }}/trees/pinaceae/abies/{{pair[1]}}.html">{{ pair[1] }}</a>
         {% elsif thecycle contains "Section" %}
         <strong>{{ pair[1] }}</strong>
       {% else %}
