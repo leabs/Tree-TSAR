@@ -20,7 +20,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} <span> | </span> {firs} </a></li>',
+        searchResultTemplate: '<li><a href="{url}.html?query={query}" title="{desc}">{title} <span> | </span> {firs} </a></li>',
         noResultsText: 'No results found',
         limit: 10,
         fuzzy: false,
