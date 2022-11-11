@@ -5,6 +5,7 @@
 layout: genus
 title: Abies
 subtitle: Some subtitle
+permalink: /trees/pinaceae/abies
 ---
 
 **Justifications for the Treatment of Abies**
