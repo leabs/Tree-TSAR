@@ -37,4 +37,4 @@ collections:
     source: abies.json
     id_key: Abies
     layout: three-column
-    permalink: /trees/abies/
+    permalink: /:collection/:name

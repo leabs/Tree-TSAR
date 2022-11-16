@@ -9,13 +9,12 @@ subtitle: "Cutting-edge PhD biologist reviewed horticultural information with si
 {% include search.html %}
 
 {% include family-list.html %}
+
 ### What’s in a name?
 
 The Tree TSAR is a searchable database focusing on woody plants for beginners, students, and professionals seeking to gain familiarity with the groups herein. Advances in fields such as molecular genetics have vastly improved our understanding of how plants are related, and this has resulted in name changes for many species. If the valid name for a species is determined to be something different from the name in common use, this can cause confusion. Even “official” sources such as textbooks, the International Plant Name Index (IPNI), Flora of North America, and organizations such as the USDA may find themselves in disagreement as they work to adopt the changes. In addition, some names remain hotly contested sources of debate.
 
 To address these issues, the Tree TSAR utilizes the most recent scientific work reviewed by a PhD biologist and woody plant expert to provide the most accurate and current names, as well as overviews that are accessible to both beginners and specialists in the field.
-
-
 
 ### Using the Tree TSAR
 
@@ -24,8 +23,6 @@ The database is organized into a hierarchy that reflects the most recent updates
 ### Updates and suggestions
 
 I welcome and encourage submission of corrections if errors are discovered, as well as the advice and input of specialists if my own treatment can be improved. Since new studies are constantly being performed and published, any information that will allow me to incorporate the most cutting-edge knowledge into the Tree TSAR treatments is greatly appreciated. Please feel free to reach out to me via the Contact tab on the left.
-
-
 
 ### What the Tree TSAR is not
 

@@ -5,7 +5,6 @@
 layout: genus
 title: Abies
 subtitle: Some subtitle
-permalink: /trees/pinaceae/abies
 ---
 
 **Justifications for the Treatment of Abies**
@@ -45,4 +44,3 @@ borisii-regis is genetically intermediate. Needle volatiles share the same tende
 borisii-regis intermediate (Nikolic et al. 2021). Despite its variable nature and hybrid origin, I record the name as
 A.
 borisii-regis here since it generally behaves as a stabilized hybrid species.
-
