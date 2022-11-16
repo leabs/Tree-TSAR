@@ -1,6 +1,6 @@
 ---
-species-name: bornmuelleriana
-common-name: Turkish fir
+species-name: "× vilmorinii"
+common-name: ''
 family-name: Pinaceae
 genus-name: Abies
 layout: species

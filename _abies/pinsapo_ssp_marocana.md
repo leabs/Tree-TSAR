@@ -1,5 +1,7 @@
 ---
-Abies: pinsapo ssp. marocana
-Firs: Moroccan fir
-layout: three-column
+species-name: pinsapo ssp& marocana
+common-name: Moroccan fir
+family-name: Pinaceae
+genus-name: Abies
+layout: species
 ---

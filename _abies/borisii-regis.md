@@ -1,8 +1,7 @@
 ---
-Abies: borisii-regis
-Firs: King Boris fir
+species-name: borisii-regis
+common-name: King Boris fir
+family-name: Pinaceae
+genus-name: Abies
 layout: species
-family: Pinaceae
-genus: Abies
-permalink: /trees/pinaceae/abies/borisii-regis
 ---

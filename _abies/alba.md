@@ -1,13 +1,7 @@
 ---
-Abies: alba
-Firs: Silver fir
+species-name: alba
+common-name: Silver fir
+family-name: Pinaceae
+genus-name: Abies
 layout: species
-family: Pinaceae
-genus: Abies
-author: Phil Crim
-permalink: "/trees/pinaceae/abies/alba"
-
 ---
-Alba / Silver fir notes here.
-
-[Test link](https://en.wikipedia.org/wiki/Abies_alba "Test Link")

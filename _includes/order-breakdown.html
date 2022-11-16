@@ -1,11 +1,13 @@
 <!--In taxonomy, Family and genus names are capitalized, but species are not. -->
 <div class="order-component">
-    {% if page.family %}
-    <p class="family-arrow"><span class="arrow-icon"></span>{{ page.family }}</p>
-    {% endif %}
-    {% if page.genus %}
-    <p class="genus-arrow"><span class="arrow-icon">➤</span>{{ page.genus }}</p>
-    {% endif %}
-    <p class="species-arrow"><span class="arrow-icon">➤</span>{{ page.title }}</p>
- </div>
-
+  {% if page.family-name %}
+  <p class="family-arrow">
+    <span class="arrow-icon"></span>{{ page.family-name }}
+  </p>
+  {% endif %} {% if page.genus-name %}
+  <p class="genus-arrow">
+    <span class="arrow-icon">➤</span>{{ page.genus-name }}
+  </p>
+  {% endif %}
+  <p class="species-arrow"><span class="arrow-icon">➤</span>{{ page.title }}</p>
+</div>

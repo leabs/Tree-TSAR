@@ -1,8 +1,7 @@
 ---
-Abies: cilicica ssp. isaurica
-Firs: Isaurian fir
+species-name: cilicica ssp& isaurica
+common-name: Isaurian fir
+family-name: Pinaceae
+genus-name: Abies
 layout: species
-family: Pinaceae
-genus: Abies
-permalink: /trees/pinaceae/abies/cilicica ssp. isaurica
 ---

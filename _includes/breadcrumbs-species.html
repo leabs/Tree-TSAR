@@ -13,12 +13,20 @@
     <li class="breadcrumb-item">
       <a href="/{{ page.family }}.html">{{ page.family }}</a>
     </li>
+    {% endif %} {% if page.url contains 'abies' %}
+    <li class="breadcrumb-item">
+      <a href="/trees/{{ page.family-name }}.html">{{ page.family-name }}</a>
+    </li>
     {% endif %} {% if page.genus or page.url contains 'abies' %}
     <li class="breadcrumb-item">
-      <a href="/trees/{{page.genus}}.html">{{page.genus}}</a>
+      <a href="/trees/{{ page.family-name }}/{{ page.genus-name }}.html"
+        >{{ page.genus-name }}</a
+      >
     </li>
     {% endif %}
 
-    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    <li class="breadcrumb-item active" aria-current="page">
+      {{ page.title | downcase }}
+    </li>
   </ol>
 </nav>

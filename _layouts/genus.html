@@ -1,15 +1,16 @@
 ---
 layout: three-column
 ---
+
 <!--In taxonomy, Family and genus names are capitalized, but species are not. -->
 <section class="section">
-    <div class="container">
+  <div class="container">
+    {% include search.html %} {% include breadcrumbs.html %}
+    <div class="text-center"><a href="#notes">Jump to notes below</a></div>
+    <br />
 
-        <div class="text-center"><a href="#notes">Jump to notes below</a></div>
-            <br />
-            {% include two-column-table.html %}
-            <br />
-            <div id="notes"></div>
-        <main>{{ content }}</main>
-    </div>
+    <br />
+    <div id="notes"></div>
+    <main>{{ content }}</main>
+  </div>
 </section>

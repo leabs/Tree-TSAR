@@ -11,11 +11,12 @@
     <li class="breadcrumb-item"><a href="/trees">Home</a></li>
     {% if page.family %}
     <li class="breadcrumb-item">
-      <a href="/{{ page.family }}.html">{{ page.family }}</a>
+      something
+      <a href="/{{ page.family-name }}.html">{{ page.family-name }}</a>
     </li>
-    {% endif %} {% if page.genus or page.url contains 'abies' %}
+    {% endif %} {% if page.genus-name %}
     <li class="breadcrumb-item">
-      <a href="/trees/{{page.genus}}.html">{{page.genus}}</a>
+      <a href="/trees/{{ page.genus-name }}.html">{{ page.genus-name }}</a>
     </li>
     {% endif %}
 

@@ -7,7 +7,7 @@ layout: none
       "title"    : "{{ trees.title | escape }}",
       "category" : "{{ trees.category }}",
       "tags"     : "{{ trees.tags | join: ', ' }}",
-      "firs"     : "{{ trees.Firs }}",
+      "common-name"     : "{{ trees.common-name }}",
       "url"      : "{{ site.baseurl }}{{ trees.url }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}

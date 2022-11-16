@@ -1,8 +1,7 @@
 ---
-Abies: bornmuelleriana ssp. equi-trojani
-Firs: Trojan fir
+species-name: bornmuelleriana ssp& equi-trojani
+common-name: Trojan fir
+family-name: Pinaceae
+genus-name: Abies
 layout: species
-family: Pinaceae
-genus: Abies
-permalink: /trees/pinaceae/abies/bornmuelleriana ssp. equi-trojani
 ---

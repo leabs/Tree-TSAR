@@ -34,7 +34,9 @@ plugins:
 collections:
   abies:
     output: true
+    family-name: Pinaceae
+    genus-name: Abies
     source: abies.json
-    id_key: Abies
-    layout: three-column
-    permalink: /:collection/:name
+    id_key: species-name
+    layout: species
+    permalink: /trees/Pinaceae/:collection/:name

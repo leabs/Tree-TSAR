@@ -8,7 +8,6 @@ subtitle: The Pinaceae, or pine family, are conifer trees or shrubs, including m
 permalink: /trees/pinaceae
 ---
 
-{% include two-column-table.html %}
 **Justifications for the Treatment of Abies**
 
 Infra-Abies delineations follow the combined nuclear, plastid, and morphological study of Xiang et al. (2018).

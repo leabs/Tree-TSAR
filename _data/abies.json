@@ -1,274 +1,98 @@
 [
   {
-    "Abies": "Section Abies",
-    "Firs": "Mediterranean firs"
+    "species-name": "alba",
+    "common-name": "Silver fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "alba",
-    "Firs": "Silver fir"
+    "species-name": "borisii-regis",
+    "common-name": "King Boris fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "borisii-regis",
-    "Firs": "King Boris fir"
+    "species-name": "bornmuelleriana",
+    "common-name": "Turkish fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "bornmuelleriana",
-    "Firs": "Turkish fir"
+    "species-name": "bornmuelleriana ssp& equi-trojani",
+    "common-name": "Trojan fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "bornmuelleriana ssp. equi-trojani",
-    "Firs": "Trojan fir"
+    "species-name": "bornmuelleriana ssp& olcayana",
+    "common-name": "Chataldag fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "bornmuelleriana ssp. olcayana",
-    "Firs": "Chataldag fir"
+    "species-name": "cephalonica",
+    "common-name": "Greek fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "cephalonica",
-    "Firs": "Greek fir"
+    "species-name": "cilicica",
+    "common-name": "Cilician fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "cilicica",
-    "Firs": "Cilician fir"
+    "species-name": "cilicica ssp& isaurica",
+    "common-name": "Isaurian fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "cilicica ssp. isaurica",
-    "Firs": "Isaurian fir"
+    "species-name": "× insignis",
+    "common-name": "",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "nebrodensis",
-    "Firs": "Sicilian fir"
+    "species-name": "nebrodensis",
+    "common-name": "Sicilian fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "nordmanniana",
-    "Firs": "Nordmann fir"
+    "species-name": "nordmanniana",
+    "common-name": "Nordmann fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "numidica",
-    "Firs": "Algerian fir"
+    "species-name": "numidica",
+    "common-name": "Algerian fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "pinsapo",
-    "Firs": "Spanish fir"
+    "species-name": "pinsapo",
+    "common-name": "Spanish fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "pinsapo ssp. marocana",
-    "Firs": "Moroccan fir"
+    "species-name": "pinsapo ssp& marocana",
+    "common-name": "Moroccan fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "pinsapo ssp. marocana var. tazaotana",
-    "Firs": "Tazaot mountain fir"
+    "species-name": "pinsapo ssp& marocana var& tazaotana",
+    "common-name": "Mt& Tazaot fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   },
   {
-    "Abies": "Section Amabilis",
-    "Firs": "Silver firs"
-  },
-  {
-    "Abies": "amabilis",
-    "Firs": "Pacific silver fir"
-  },
-  {
-    "Abies": "mariesii",
-    "Firs": "Maries' fir"
-  },
-  {
-    "Abies": "Section Balsamea",
-    "Firs": "Balsam firs"
-  },
-  {
-    "Abies": "balsamea",
-    "Firs": "Balsam fir"
-  },
-  {
-    "Abies": "balsamea var. phanerolepis",
-    "Firs": "Canaan fir"
-  },
-  {
-    "Abies": "fraseri",
-    "Firs": "Fraser fir"
-  },
-  {
-    "Abies": "koreana",
-    "Firs": "Korean fir"
-  },
-  {
-    "Abies": "lasiocarpa",
-    "Firs": "Subalpine fir"
-  },
-  {
-    "Abies": "nephrolepis",
-    "Firs": "Manchurian fir"
-  },
-  {
-    "Abies": "sachalinensis",
-    "Firs": "Sakhalin fir"
-  },
-  {
-    "Abies": "sibirica",
-    "Firs": "Siberian fir"
-  },
-  {
-    "Abies": "veitchii",
-    "Firs": "Veitch's fir"
-  },
-  {
-    "Abies": "(koreana x lasiocarpa) (aka koreocarpa; lasicor)",
-    "Firs": "Koreocarpa fir"
-  },
-  {
-    "Abies": "Section Bracteata",
-    "Firs": "Bristlecone fir"
-  },
-  {
-    "Abies": "bracteata",
-    "Firs": "Bristlecone fir"
-  },
-  {
-    "Abies": "Section Grandis",
-    "Firs": "Grand firs"
-  },
-  {
-    "Abies": "concolor",
-    "Firs": "White fir"
-  },
-  {
-    "Abies": "durangensis",
-    "Firs": "Durango fir"
-  },
-  {
-    "Abies": "flinckii",
-    "Firs": "Jalisco fir"
-  },
-  {
-    "Abies": "grandis",
-    "Firs": "Grand fir"
-  },
-  {
-    "Abies": "guatemalensis",
-    "Firs": "Guatemalan fir"
-  },
-  {
-    "Abies": "hickelii",
-    "Firs": "Oaxacan fir"
-  },
-  {
-    "Abies": "religiosa",
-    "Firs": "Sacred fir"
-  },
-  {
-    "Abies": "vejarii",
-    "Firs": "Vejar's fir"
-  },
-  {
-    "Abies": "Section Nobilis",
-    "Firs": "Noble firs"
-  },
-  {
-    "Abies": "magnifica",
-    "Firs": "California red fir"
-  },
-  {
-    "Abies": "procera",
-    "Firs": "Noble fir"
-  },
-  {
-    "Abies": "x shastensis (magnifica x procera)",
-    "Firs": "Shasta fir"
-  },
-  {
-    "Abies": "Section Pseudopicea",
-    "Firs": "Blue-Coned firs"
-  },
-  {
-    "Abies": "beshanzuensis",
-    "Firs": "Baishan fir"
-  },
-  {
-    "Abies": "x chengii (salouenensis x forrestii)",
-    "Firs": "Cheng's fir"
-  },
-  {
-    "Abies": "chensiana",
-    "Firs": "River fir"
-  },
-  {
-    "Abies": "delavayi",
-    "Firs": "Delavay's fir"
-  },
-  {
-    "Abies": "densa",
-    "Firs": "Bhutan fir"
-  },
-  {
-    "Abies": "ernestii",
-    "Firs": "Wilson's fir"
-  },
-  {
-    "Abies": "fabri",
-    "Firs": "Faber's fir"
-  },
-  {
-    "Abies": "fanjingshanensis",
-    "Firs": "Fanjingshan fir"
-  },
-  {
-    "Abies": "fargesii",
-    "Firs": "Farges fir"
-  },
-  {
-    "Abies": "fargesii var. faxoniana",
-    "Firs": "Faxon's fir"
-  },
-  {
-    "Abies": "firma",
-    "Firs": "Momi fir"
-  },
-  {
-    "Abies": "forrestii",
-    "Firs": "Forrest's fir"
-  },
-  {
-    "Abies": "georgei",
-    "Firs": "Rusty fir"
-  },
-  {
-    "Abies": "holophylla",
-    "Firs": "Needle fir"
-  },
-  {
-    "Abies": "homolepis",
-    "Firs": "Nikko fir"
-  },
-  {
-    "Abies": "nukiangensis",
-    "Firs": "Nukiang fir"
-  },
-  {
-    "Abies": "pindrow",
-    "Firs": "West Himalayan fir"
-  },
-  {
-    "Abies": "recurvata",
-    "Firs": "Min fir"
-  },
-  {
-    "Abies": "salouenensis",
-    "Firs": "Salween fir"
-  },
-  {
-    "Abies": "spectabilis",
-    "Firs": "East Himalayan fir"
-  },
-  {
-    "Abies": "squamata",
-    "Firs": "Flaky fir"
-  },
-  {
-    "Abies": "yuanbaoshanensis",
-    "Firs": "Yuanbaoshan fir"
-  },
-  {
-    "Abies": "ziyuanensis",
-    "Firs": "Zhihuan fir"
+    "species-name": "× vilmorinii",
+    "common-name": "",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies"
   }
 ]

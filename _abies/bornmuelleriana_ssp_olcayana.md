@@ -1,8 +1,7 @@
 ---
-Abies: bornmuelleriana ssp. olcayana
-Firs: Chataldag fir
+species-name: bornmuelleriana ssp& olcayana
+common-name: Chataldag fir
+family-name: Pinaceae
+genus-name: Abies
 layout: species
-family: Pinaceae
-genus: Abies
-permalink: /trees/pinaceae/abies/bornmuelleriana ssp. olcayana
 ---

@@ -1,30 +1,66 @@
-
-<div class="row" style="margin-bottom:30px;">
-<div class="col-md-6 text-center">
-    <h3 class="lumberjack" style="color:#56d434; font-size:4.5rem; -webkit-text-stroke-width: 2px;
-        -webkit-text-stroke-color: black;">Tree TSAR</h3>
-        <hr style="margin: 6px auto; width: 70%;height:5px;border:none;color:#56d434;background-color:#56d434; opacity:1" />
-        <h4 class="lumberjack" style="color:#56d434; font-size:1.75rem; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;">Taxonomy, Systematics, and Review</h4>
-</div>
-<div class="col-md-6">
+<div class="row" style="margin-bottom: 30px">
+  <div class="col-md-6 text-center">
+    <h3
+      class="lumberjack"
+      style="
+        color: #56d434;
+        font-size: 4.5rem;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: black;
+      "
+    >
+      Tree TSAR
+    </h3>
+    <hr
+      style="
+        margin: 6px auto;
+        width: 70%;
+        height: 5px;
+        border: none;
+        color: #56d434;
+        background-color: #56d434;
+        opacity: 1;
+      "
+    />
+    <h4
+      class="lumberjack"
+      style="
+        color: #56d434;
+        font-size: 1.75rem;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+      "
+    >
+      Taxonomy, Systematics, and Review
+    </h4>
+  </div>
+  <div class="col-md-6">
     <div id="search-container">
-        <input type="search" class="form-control" id="search-input" placeholder="search...">
-        <ul id="results-container"></ul>
+      <input
+        type="search"
+        class="form-control"
+        id="search-input"
+        placeholder="search..."
+      />
+      <ul id="results-container"></ul>
     </div>
-</div>
+  </div>
 </div>
 
 <script src="{{site.baseurl}}/assets/js/simple-jekyll-search.min.js"></script>
 
-<script>window.simpleJekyllSearch = new SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}.html?query={query}" title="{desc}" style="text-transform: lowercase">{title} <span> | </span> <span style="text-transform: capitalize;">{firs}</span> </a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-    })</script>
+<script>
+  window.simpleJekyllSearch = new SimpleJekyllSearch({
+    searchInput: document.getElementById("search-input"),
+    resultsContainer: document.getElementById("results-container"),
+    json: "{{ site.baseurl }}/search.json",
+    searchResultTemplate:
+      '<li><a href="{url}.html?query={query}" title="{desc}" style="text-transform: lowercase">{title} <span> | </span> <span style="text-transform: capitalize;">{common-name}</span> </a></li>',
+    noResultsText: "No results found",
+    limit: 10,
+    fuzzy: false,
+    exclude: ["Welcome"],
+  });
+</script>
 
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
