@@ -1,24 +1,20 @@
 <!--loop through data.authors and populate a table, make data that contains the word section bold in Jekyll-->
 <!--In taxonomy, Family and genus names are capitalized, but species are not. -->
 <table class="table table-sm table-striped table-responsive">
-    {% for row in site.data.abies %}
-      {% if forloop.first %}
-      <tr>
-        {% for pair in row %}
-          <th style="width: 50%">{{ pair[0] }}</th>
-        {% endfor %}
-      </tr>
-      {% endif %}
-  
-      {% tablerow pair in row %}
-      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-        {% if thecycle == 'odd' %}
-         <a href="{{site.url }}/trees/pinaceae/abies/{{pair[1]}}.html">{{ pair[1] }}</a>
-        {% elsif thecycle contains "Section" %}
-        <strong>{{ pair[1] }}</strong>
-      {% else %}
-        {{ pair[1] }}
-      {% endif %}
-      {% endtablerow %}
+  {% for row in site.data.abies %} {% if forloop.first %}
+  <tr>
+    {% for pair in row %}
+    <th style="width: 50%">{{ pair[0] }}</th>
     {% endfor %}
-  </table>
+  </tr>
+  {% endif %} {% tablerow pair in row %} {% capture thecycle %}{% cycle 'odd',
+  'even' %}{% endcapture %} {% if thecycle == 'odd' %}
+  <a
+    class="font-italic"
+    href="{{site.url }}/trees/pinaceae/abies/{{pair[1]}}.html"
+    >{{ pair[1] | downcase }}</a
+  >
+  {% elsif thecycle contains "Section" %}
+  <strong>{{ pair[1] }}</strong>
+  {% else %} {{ pair[1] }} {% endif %} {% endtablerow %} {% endfor %}
+</table>
