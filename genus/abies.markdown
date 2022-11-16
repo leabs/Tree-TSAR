@@ -10,7 +10,6 @@ subtitle: Some subtitle
 permalink: /trees/pinaceae/abies.html
 ---
 
-{% include two-column-table.html %}
 **Justifications for the Treatment of Abies**
 
 Infra-Abies delineations follow the combined nuclear, plastid, and morphological study of Xiang et al. (2018).

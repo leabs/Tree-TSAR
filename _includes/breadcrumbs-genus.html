@@ -9,17 +9,10 @@
 >
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/trees">Home</a></li>
-    {% if page.family %}
+    {% if page.family-name %}
     <li class="breadcrumb-item">
-      something
-      <a href="/{{ page.family-name | downcase }}.html"
+      <a href="/trees/{{ page.family-name | downcase }}.html"
         >{{ page.family-name }}</a
-      >
-    </li>
-    {% endif %} {% if page.genus-name %}
-    <li class="breadcrumb-item">
-      <a href="/trees/{{ page.genus-name | downcase }}.html"
-        >{{ page.genus-name }}</a
       >
     </li>
     {% endif %}
