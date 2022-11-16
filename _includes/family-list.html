@@ -11,7 +11,7 @@
           <li
             class="list-group-item d-flex justify-content-between align-items-center"
           >
-            <a href="/trees/{{ family.name }}">{{ family.name }}</a>
+            <a href="/trees/{{ family.name }}.html">{{ family.name }}</a>
             <!--Find the size or number of documents for this collection where family-list is genus-list-->
             {% assign family_size = site.data.genus-list | where: "family",
             family-name | size %}
