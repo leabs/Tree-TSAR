@@ -1,13 +1,22 @@
 family-name:
   Pinaceae:
     - name: Abies
+      common-name: Fir
     - name: Cathaya
+      common-name: Silver-fir
     - name: Cedrus
     - name: Keteleeria
     - name: Larix
+      common-name: Larch
     - name: Nothotsuga
+      common-name: Bristlecone-hemlock
     - name: Picea
+      common-name: Spruce
     - name: Pinus
+      common-name: Pine
     - name: Pseudolarix
+      common-name: Golden-larch
     - name: Pseudotsuga
+      common-name: Douglas-fir
     - name: Tsuga
+      common-name: Hemlock

@@ -12,23 +12,35 @@ layout: three-column
     <h3 class="text-primary" style="font-weight: 700; font-size: 16px">
       Find by Genus
     </h3>
-    <div class="row">
-      <div class="col-md-4">
-        <ul class="list-group">
+    
+        <table  class="table table-sm table-striped table-responsive">
+          <thead>
+            <tr>
+              <th style="width: 50%">Genus</th>
+              <th style="width: 50%">Common Name</th>
+            </tr>
+          </thead>
+          <tbody>
           <!--loop through genus list in the data folder -->
           {% for genus in site.data.genus-list.family-name.Pinaceae %}
-          <li
+          <tr>
+          <td
             class="list-group-item d-flex justify-content-between align-items-center"
           >
-            <a href="/trees/pinaceae/{{ genus.name | downcase }}.html"
+            <a href="/trees/pinaceae/{{ genus.name | downcase }}.html" class="font-italic"
               >{{ genus.name }}</a
             >
-            <!--Find the size or number of documents for this collection where family-list is genus-list-->
-          </li>
+            </td>
+            <td>
+            {{ genus.common-name }}
+            </td>
+          </tr>
           {% endfor %}
-        </ul>
-      </div>
-    </div>
+        </tbody>
+            </table>
+            <!--Find the size or number of documents for this collection where family-list is genus-list-->
+         
+
 
     <div id="notes"></div>
     <main>{{ content }}</main>
