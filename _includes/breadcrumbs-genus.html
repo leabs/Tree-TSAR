@@ -12,11 +12,15 @@
     {% if page.family %}
     <li class="breadcrumb-item">
       something
-      <a href="/{{ page.family-name }}.html">{{ page.family-name }}</a>
+      <a href="/{{ page.family-name | downcase }}.html"
+        >{{ page.family-name }}</a
+      >
     </li>
     {% endif %} {% if page.genus-name %}
     <li class="breadcrumb-item">
-      <a href="/trees/{{ page.genus-name }}.html">{{ page.genus-name }}</a>
+      <a href="/trees/{{ page.genus-name | downcase }}.html"
+        >{{ page.genus-name }}</a
+      >
     </li>
     {% endif %}
 
