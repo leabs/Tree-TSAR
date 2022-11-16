@@ -39,4 +39,4 @@ collections:
     source: abies.json
     id_key: species-name
     layout: species
-    permalink: /trees/Pinaceae/:collection/:name
+    permalink: /trees/pinaceae/:collection/:name
