@@ -7,7 +7,7 @@ title: Abies
 genus-name: Abies
 family-name: Pinaceae
 subtitle: Some subtitle
-permalink: /trees/Pinaceae/abies.html
+permalink: /trees/pinaceae/abies.html
 ---
 
 {% include two-column-table.html %}
