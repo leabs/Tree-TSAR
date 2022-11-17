@@ -1,20 +1,80 @@
-<!--loop through data.authors and populate a table, make data that contains the word section bold in Jekyll-->
-<!--In taxonomy, Family and genus names are capitalized, but species are not. -->
-<table class="table table-sm table-striped table-responsive">
-  {% for row in site.data.abies %} {% if forloop.first %}
-  <tr>
-    {% for pair in row | limit: 2 %}
-    <th style="width: 50%">{{ pair[0] }}</th>
+{% assign sorted_trees = site.abies %}
+
+<table class="table table-sm table-responsive">
+  <thead>
+    <tr>
+      <th style="width: 50%; text-align: left" class="font-italic">Abies</th>
+      <th style="width: 50%; text-align: left">Firs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">
+        <strong>Section <span class="font-italic">Abies</span></strong>
+      </td>
+      <td style="text-align: center"><strong>Mediterranean firs</strong></td>
+    </tr>
+    {% for category in sorted_trees %}
+    <tr>
+      {% if category.infrageneric-level-I == "Section Abies" %}
+      <td>
+        <a href="{{category.url}}"
+          >{{ category.species-name | downcase | replace: "&", "." }}</a
+        >
+      </td>
+      <td>{{ category.common-name }}</td>
+      {% endif %}
+    </tr>
     {% endfor %}
-  </tr>
-  {% endif %} {% tablerow pair in row | limit: 2 %} {% capture thecycle %}{%
-  cycle 'odd', 'even' %}{% endcapture %} {% if thecycle == 'odd' %}
-  <a
-    class="font-italic"
-    href="{{site.url }}/trees/pinaceae/abies/{{pair[1] | replace: ' ', '-' | replace: '&', '-' }}.html"
-    >{{ pair[1] | downcase | replace: "&", "." }}</a
-  >
-  {% elsif thecycle contains "Section" %}
-  <strong>{{ pair[1] }}</strong>
-  {% else %} {{ pair[1] }} {% endif %} {% endtablerow %} {% endfor %}
+    <!---->
+    <tr>
+      <td style="text-align: center">
+        <strong>Section <span class="font-italic">Amabilis</span></strong>
+      </td>
+      <td style="text-align: center"><strong>Silver firs</strong></td>
+    </tr>
+    {% for category in sorted_trees %}
+    <tr>
+      {% if category.infrageneric-level-I == "Section Amabilis" %}
+      <td>
+        <a href="{{category.url}}">{{ category.species-name | downcase }}</a>
+      </td>
+      <td>{{ category.common-name }}</td>
+      {% endif %}
+    </tr>
+    {% endfor %}
+    <!---->
+    <tr>
+      <td style="text-align: center">
+        <strong>Section <span class="font-italic">Balsamea</span></strong>
+      </td>
+      <td style="text-align: center"><strong>Balsam firs</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <strong>Section <span class="font-italic">Bracteata</span></strong>
+      </td>
+      <td style="text-align: center"><strong>Bristlecone fir</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <strong>Section <span class="font-italic">Grandis</span></strong>
+      </td>
+      <td style="text-align: center"><strong>Grand firs</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <strong>Section <span class="font-italic">Nobilis</span></strong>
+      </td>
+      <td style="text-align: center"><strong>Noble firs</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <strong>Section <span class="font-italic">Pseudopicea</span></strong>
+      </td>
+      <td style="text-align: center"><strong>Blue-Coned firs</strong></td>
+    </tr>
+
+
+  </tbody>
 </table>
