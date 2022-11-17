@@ -1,13 +1,33 @@
 <!--In taxonomy, Family and genus names are capitalized, but species are not. -->
 <div class="order-component">
   {% if page.family-name %}
-  <p class="arrow family-arrow">
-    <span class="arrow arrow-icon"></span>{{ page.family-name }}
+  <p class="arrow">
+    <span class="arrow-icon"></span>{{ page.family-name }}
   </p>
   {% endif %} {% if page.genus-name %}
-  <p class="arrow genus-arrow">
-    <span class="arrow arrow-icon">➤</span>{{ page.genus-name }}
+  <p class="arrow font-italic">
+    <span class="arrow-icon">➤</span>{{ page.genus-name }}
   </p>
   {% endif %}
-  <p class="arrow species-arrow"><span class="arrow-icon">➤</span>{{ page.title }}</p>
+  {% if page.infrageneric-level-I %}
+  <p class="arrow">
+    <span class="arrow-icon">➤</span>{{ page.infrageneric-level-I }}
+  </p>
+  {% endif %}
+  {% if page.infrageneric-level-II %}
+  <p class="arrow">
+    <span class="arrow-icon">➤</span>{{ page.infrageneric-level-II }}
+  </p>
+  {% endif %}
+  {% if page.infrageneric-level-III %}
+  <p class="arrow">
+    <span class="arrow-icon">➤</span>{{ page.infrageneric-level-III }}
+  </p>
+  {% endif %}
+  {% if page.infrageneric-level-IV %}
+  <p class="arrow">
+    <span class="arrow-icon">➤</span>{{ page.infrageneric-level-IV }}
+  </p>
+  {% endif %}
+  <p class="arrow"><span class="arrow-icon">➤</span>{{ page.title | downcase }}</p>
 </div>

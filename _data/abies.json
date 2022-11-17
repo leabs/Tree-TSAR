@@ -3,96 +3,127 @@
     "species-name": "alba",
     "common-name": "Silver fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "borisii-regis",
     "common-name": "King Boris fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "bornmuelleriana",
     "common-name": "Turkish fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "bornmuelleriana ssp& equi-trojani",
     "common-name": "Trojan fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "bornmuelleriana ssp& olcayana",
     "common-name": "Chataldag fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "cephalonica",
     "common-name": "Greek fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "cilicica",
     "common-name": "Cilician fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "cilicica ssp& isaurica",
     "common-name": "Isaurian fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "× insignis",
     "common-name": "",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "nebrodensis",
     "common-name": "Sicilian fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "nordmanniana",
     "common-name": "Nordmann fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "numidica",
     "common-name": "Algerian fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "pinsapo",
     "common-name": "Spanish fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "pinsapo ssp& marocana",
     "common-name": "Moroccan fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "pinsapo ssp& marocana var& tazaotana",
     "common-name": "Mt& Tazaot fir",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
   },
   {
     "species-name": "× vilmorinii",
     "common-name": "",
     "family-name": "Pinaceae",
-    "genus-name": "Abies"
+    "genus-name": "Abies",
+    "infrageneric-level-1": "Abies"
+  },
+  {
+    "species-name": "amabilis",
+    "common-name": "Pacific silver fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies",
+    "infrageneric-level-I": "Amabilis"
+  },
+  {
+    "species-name": "mariesii",
+    "common-name": "Maries' fir",
+    "family-name": "Pinaceae",
+    "genus-name": "Abies",
+    "infrageneric-level-I": "Amabilis"
   }
+
 ]

@@ -120,14 +120,26 @@ thead th {
 .arrow{
   word-break: break-all;
 }
-.genus-arrow {
-  margin-left: 25px;
-  text-transform: capitalize;
-  font-style: italic;
+.arrow:nth-child(2) {
+  margin-left:12px;
 }
-.species-arrow {
-  margin-left: 50px;
-  text-transform: lowercase;
+.arrow:nth-child(3) {
+  margin-left:24px;
+}
+.arrow:nth-child(4) {
+  margin-left:36px;
+}
+.arrow:nth-child(5) {
+  margin-left:48px;
+}
+.arrow:nth-child(6) {
+  margin-left:60px;
+}
+.arrow:nth-child(7) {
+  margin-left:72px;
+}
+.arrow:nth-child(8) {
+  margin-left:84px;
 }
 .order-component p {
   margin-bottom: 0;
