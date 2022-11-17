@@ -1,9 +1,12 @@
-{% assign sorted_trees = site.abies %}
 
+{% capture this-genus %}
+{{ page.title}}
+{% endcapture %}
+{% assign sorted_trees = site.abies %}
 <table class="table table-sm table-responsive">
   <thead>
     <tr>
-      <th style="width: 50%; text-align: left" class="font-italic">Abies</th>
+      <th style="width: 50%; text-align: left" class="font-italic">{{this-genus}}</th>
       <th style="width: 50%; text-align: left">Firs</th>
     </tr>
   </thead>
