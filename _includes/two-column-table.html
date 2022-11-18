@@ -1,83 +1,95 @@
-
+<!--Sets titles-->
 {% capture this-genus %}
 {{ page.title}}
 {% endcapture %}
-{% assign sorted_trees = site.abies %}
-<table class="table table-sm table-responsive">
-  <thead>
-    <tr>
-      <th style="width: 50%; text-align: left" class="font-italic">{{this-genus}}</th>
-      <th style="width: 50%; text-align: left">Firs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center">
-        <strong>Section <span class="font-italic">Abies</span></strong>
-      </td>
-      <td style="text-align: center"><strong>Mediterranean firs</strong></td>
-    </tr>
-    {% for category in sorted_trees %}
-    <tr>
-      {% if category.infrageneric-level-I == "Section Abies" %}
-      <td>
-        <a href="{{category.url}}.html"
-          >{{ category.species-name | downcase | replace: "&", "." }}</a
-        >
-      </td>
-      <td>{{ category.common-name }}</td>
-      {% endif %}
-    </tr>
-    {% endfor %}
-    <!---->
-    <tr>
-      <td style="text-align: center">
-        <strong>Section <span class="font-italic">Amabilis</span></strong>
-      </td>
-      <td style="text-align: center"><strong>Silver firs</strong></td>
-    </tr>
-    {% for category in sorted_trees %}
-    <tr>
-      {% if category.infrageneric-level-I == "Section Amabilis" %}
-      <td>
-        <a href="{{category.url}}.html">{{ category.species-name | downcase }}</a>
-      </td>
-      <td>{{ category.common-name }}</td>
-      {% endif %}
-    </tr>
-    {% endfor %}
-    <!---->
-    <tr>
-      <td style="text-align: center">
-        <strong>Section <span class="font-italic">Balsamea</span></strong>
-      </td>
-      <td style="text-align: center"><strong>Balsam firs</strong></td>
-    </tr>
-    <tr>
-      <td style="text-align: center">
-        <strong>Section <span class="font-italic">Bracteata</span></strong>
-      </td>
-      <td style="text-align: center"><strong>Bristlecone fir</strong></td>
-    </tr>
-    <tr>
-      <td style="text-align: center">
-        <strong>Section <span class="font-italic">Grandis</span></strong>
-      </td>
-      <td style="text-align: center"><strong>Grand firs</strong></td>
-    </tr>
-    <tr>
-      <td style="text-align: center">
-        <strong>Section <span class="font-italic">Nobilis</span></strong>
-      </td>
-      <td style="text-align: center"><strong>Noble firs</strong></td>
-    </tr>
-    <tr>
-      <td style="text-align: center">
-        <strong>Section <span class="font-italic">Pseudopicea</span></strong>
-      </td>
-      <td style="text-align: center"><strong>Blue-Coned firs</strong></td>
-    </tr>
+
+<!--Sets Data-->
+{% if page.title == "Abies" %}
+  {% assign data = site.abies %} 
+  {% assign sorted_trees = data %}
+  <table class="table table-sm table-responsive">
+    <thead>
+      <tr>
+        <th style="width: 50%; text-align: left" class="font-italic">{{this-genus}}</th>
+        <th style="width: 50%; text-align: left">Firs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center">
+          <strong>Section <span class="font-italic">Abies</span></strong>
+        </td>
+        <td style="text-align: center"><strong>Mediterranean firs</strong></td>
+      </tr>
+      {% for category in sorted_trees %}
+      <tr>
+        {% if category.infrageneric-level-I == "Section Abies" %}
+        <td>
+          <a href="{{category.url}}.html"
+            >{{ category.species-name | downcase | replace: "&", "." }}</a
+          >
+        </td>
+        <td>{{ category.common-name }}</td>
+        {% endif %}
+      </tr>
+      {% endfor %}
+      <!---->
+      <tr>
+        <td style="text-align: center">
+          <strong>Section <span class="font-italic">Amabilis</span></strong>
+        </td>
+        <td style="text-align: center"><strong>Silver firs</strong></td>
+      </tr>
+      {% for category in sorted_trees %}
+      <tr>
+        {% if category.infrageneric-level-I == "Section Amabilis" %}
+        <td>
+          <a href="{{category.url}}.html">{{ category.species-name | downcase }}</a>
+        </td>
+        <td>{{ category.common-name }}</td>
+        {% endif %}
+      </tr>
+      {% endfor %}
+      <!---->
+      <tr>
+        <td style="text-align: center">
+          <strong>Section <span class="font-italic">Balsamea</span></strong>
+        </td>
+        <td style="text-align: center"><strong>Balsam firs</strong></td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <strong>Section <span class="font-italic">Bracteata</span></strong>
+        </td>
+        <td style="text-align: center"><strong>Bristlecone fir</strong></td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <strong>Section <span class="font-italic">Grandis</span></strong>
+        </td>
+        <td style="text-align: center"><strong>Grand firs</strong></td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <strong>Section <span class="font-italic">Nobilis</span></strong>
+        </td>
+        <td style="text-align: center"><strong>Noble firs</strong></td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <strong>Section <span class="font-italic">Pseudopicea</span></strong>
+        </td>
+        <td style="text-align: center"><strong>Blue-Coned firs</strong></td>
+      </tr>
 
 
-  </tbody>
-</table>
+    </tbody>
+  </table>
+  {% else %}
+  <p>Species tables for this Genus coming soon!</p>
+  {% assign data = none %} 
+{% endif %}
+
+
+ 
+

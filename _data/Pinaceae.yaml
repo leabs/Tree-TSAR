@@ -1,0 +1,23 @@
+- genus: Abies	
+  common-name: Fir
+  sections:
+    name: one
+    common-name: One
+- genus: Cathaya	
+  common-name: Silver-fir
+- genus: Cedrus	
+- genus: Keteleeria	
+- genus: Larix	
+  common-name: Larch
+- genus: Nothotsuga	
+  common-name: Bristlecone-hemlock
+- genus: Picea	
+  common-name: Spruce
+- genus: Pinus	
+  common-name: Pine
+- genus: Pseudolarix	
+  common-name: Golden-larch
+- genus: Pseudotsuga	
+  common-name: Douglas-fir
+- genus: Tsuga	
+  common-name: Hemlock

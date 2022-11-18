@@ -1,0 +1,16 @@
+<!--Capture page title to use for collection filter on for loop-->
+{% assign this-genus = page.title | downcase %}
+
+<!--determine sections to iterate over using infrageneric-level-I front matter-->
+{% assign section_count = site.this-genus | map: 'infrageneric-level-I' | join:
+',' | uniq | sort %} 
+{% assign items_grouped = site.abies | group_by: 'infrageneric-level-I' %} 
+{{section_count}}
+
+{% for group in items_grouped %}
+<h3>section: {{group.items_grouped.infrageneric-level-I}}</h3>
+{% for item in group.items %}
+<p>{{item.species-name}}</p>
+{% endfor %}
+{% endfor %}
+
