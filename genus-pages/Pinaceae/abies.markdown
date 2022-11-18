@@ -6,7 +6,9 @@ layout: genus
 title: Abies
 genus-name: Abies
 family-name: Pinaceae
+common-name: Firs
 subtitle: Some subtitle
+author: Philip Crim
 permalink: /trees/pinaceae/abies.html
 ---
 

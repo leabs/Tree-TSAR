@@ -1,18 +1,11 @@
 ---
 layout: three-column
 ---
+{% include breadcrumbs-genus.html %} 
+{% include search.html %} 
+{% include name-heading.html %}
+{% include two-column-table.html %}
 
-<!--In taxonomy, Family and genus names are capitalized, but species are not. -->
-<section class="section">
-  <div class="container">
-    {% include search.html %} {% include breadcrumbs-genus.html %} 
-    
-    {% include two-column-table.html %}
-
-    <br />
-
-    <br />
-    <div id="notes"></div>
-    <main>{{ content }}</main>
-  </div>
-</section>
+  
+{{ content }}
+  
