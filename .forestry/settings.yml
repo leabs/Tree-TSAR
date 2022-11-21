@@ -15,6 +15,21 @@ sections:
   label: Abies
   create: all
   match: "**/*"
+- type: directory
+  path: _cathaya
+  label: Cathaya
+  create: all
+  match: "**/*"
+- type: directory
+  path: _cedrus
+  label: Cedrus
+  create: all
+  match: "**/*"
+- type: directory
+  path: _keteleeria
+  label: Keteleeria
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
