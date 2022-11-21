@@ -1,0 +1,1433 @@
+[
+ {
+   "species-name": "densata",
+   "common-name": "Sikang pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "densiflora",
+   "common-name": "Japanese red pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "densiflora var. ussuriensis",
+   "common-name": "Ussurian red pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "densiflora var. zhangwuensis",
+   "common-name": "Zhangwu red pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "× densithunbergii",
+   "common-name": "Japanese hybrid pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "henryi",
+   "common-name": "Henry's pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "hwangshanensis",
+   "common-name": "Huangshan pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "kesiya",
+   "common-name": "Khasi pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "latteri",
+   "common-name": "Tenasserim pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "luchuensis",
+   "common-name": "Luchu pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "massoniana",
+   "common-name": "Chinese red pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "merkusii",
+   "common-name": "Sumatran pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "mugo",
+   "common-name": "Dwarf mountain pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "× neilreichiana",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "nigra",
+   "common-name": "Austrian pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "nigra ssp. dalmatica",
+   "common-name": "Dalmatian pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "nigra ssp. laricio",
+   "common-name": "Corsican pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "nigra ssp. pallasiana",
+   "common-name": "Crimean pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "nigra ssp. salzmannii",
+   "common-name": "Spanish pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "resinosa",
+   "common-name": "American red pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "rhaetica",
+   "common-name": "Rhaetic pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "× rotundata",
+   "common-name": "European mountain pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "sylvestris",
+   "common-name": "Scotch pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "tabuliformis",
+   "common-name": "Chinese red pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "tabuliformis var. mukdensis",
+   "common-name": "North Korean pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "tabuliformis var. umbraculifera",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "taiwanensis",
+   "common-name": "Taiwan red pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "thunbergii",
+   "common-name": "Japanese black pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "tropicalis",
+   "common-name": "Tropical pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "uncinata",
+   "common-name": "Swiss mountain pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "yunnanensis",
+   "common-name": "Yunnan pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinus"
+ },
+ {
+   "species-name": "brutia",
+   "common-name": "Turkish pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "brutia var. eldarica",
+   "common-name": "Calabrian pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "canariensis",
+   "common-name": "Canary Island pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "halepensis",
+   "common-name": "Aleppo pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "heldreichii",
+   "common-name": "Bosnian pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "heldreichii var. leucodermis",
+   "common-name": "Whitebark Bosnian pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "pinaster",
+   "common-name": "Maritime pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "pinea",
+   "common-name": "Italian stone pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "roxburghii",
+   "common-name": "Chir pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Pinus",
+   "infrageneric-level-III": "Subsection Pinaster"
+ },
+ {
+   "species-name": "attenuata",
+   "common-name": "Knobcone pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Attenuatae"
+ },
+ {
+   "species-name": "× attenuradiata",
+   "common-name": "KMX pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Attenuatae"
+ },
+ {
+   "species-name": "muricata",
+   "common-name": "Bishop pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Attenuatae"
+ },
+ {
+   "species-name": "radiata",
+   "common-name": "Monterey pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Attenuatae"
+ },
+ {
+   "species-name": "radiata var. binata",
+   "common-name": "Guadelupe Island pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Attenuatae"
+ },
+ {
+   "species-name": "caribaea",
+   "common-name": "Caribbean pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "cubensis",
+   "common-name": "Cuban pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "echinata",
+   "common-name": "Shortleaf pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "elliottii",
+   "common-name": "Slash pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "georginae",
+   "common-name": "Amado's pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "glabra",
+   "common-name": "Spruce pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "greggii",
+   "common-name": "Gregg pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "herrerae",
+   "common-name": "Herrera pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "jaliscana",
+   "common-name": "Jalisco pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "lawsonii",
+   "common-name": "Lawson's pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "leiophylla",
+   "common-name": "Smoothleaf pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "leiophylla var. chihuahuana",
+   "common-name": "Chihuahua pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "lumholtzii",
+   "common-name": "Lumholtz weeping pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "luzmariae",
+   "common-name": "Three-needle eggcone pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "occidentalis",
+   "common-name": "Hispaniola pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "oocarpa",
+   "common-name": "Mexican eggcone pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "palustris",
+   "common-name": "Longleaf pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "patula",
+   "common-name": "Mexican weeping pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "praetermissa",
+   "common-name": "Mexican scrub pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "pringlei",
+   "common-name": "Pringle's pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "pungens",
+   "common-name": "Table mountain pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "rigida",
+   "common-name": "Pitch pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "serotina",
+   "common-name": "Pond pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "taeda",
+   "common-name": "Loblolly pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "tecunumanii",
+   "common-name": "Mayan pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "teocote",
+   "common-name": "Aztec pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "vallartensis",
+   "common-name": "Puerto Vallarta pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Australes"
+ },
+ {
+   "species-name": "banksiana",
+   "common-name": "Jack pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "clausa",
+   "common-name": "Ocala sand pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "clausa var. immugenata",
+   "common-name": "Choctawhatchee sand pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "contorta",
+   "common-name": "Shore pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "contorta ssp. contorta var. bolanderi",
+   "common-name": "Mendocino Sands shore pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "contorta ssp. latifolia",
+   "common-name": "Lodgepole pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "contorta ssp. murrayana",
+   "common-name": "Sierra lodgepole pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "× murraybanksiana",
+   "common-name": "Murraybanks pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "virginiana",
+   "common-name": "Virginia pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Contortae"
+ },
+ {
+   "species-name": "arizonica",
+   "common-name": "Arizona pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "brachyptera",
+   "common-name": "Southwestern yellow pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "cooperi",
+   "common-name": "Cooper's pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "devoniana",
+   "common-name": "Michoacan pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "douglasiana",
+   "common-name": "Douglas pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "durangensis",
+   "common-name": "Durango pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "engelmanii",
+   "common-name": "Apache pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "hartwegii",
+   "common-name": "Mexican mountain pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "maximinoi",
+   "common-name": "Thinleaf pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "montezumae",
+   "common-name": "Montezuma pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "ponderosa",
+   "common-name": "Ponderosa pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "ponderosa ssp. benthamiana",
+   "common-name": "Pacific pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "ponderosa ssp. washoensis",
+   "common-name": "Washoe pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "pseudostrobus",
+   "common-name": "Mexican smoothbark pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "pseudostrobus var. apulcensis",
+   "common-name": "Oaxacan pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "scopulorum",
+   "common-name": "Rocky Mountain yellow pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "stormiae",
+   "common-name": "Royal pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "yecorensis",
+   "common-name": "Sonora pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "yecorensis var. sinaloensis",
+   "common-name": "Sinaloa pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Ponderosae"
+ },
+ {
+   "species-name": "coulteri",
+   "common-name": "Coulter pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Sabinianae"
+ },
+ {
+   "species-name": "jeffreyi",
+   "common-name": "Jeffrey pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Sabinianae"
+ },
+ {
+   "species-name": "sabiniana",
+   "common-name": "Gray pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Sabinianae"
+ },
+ {
+   "species-name": "torreyana",
+   "common-name": "Torrey pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Sabinianae"
+ },
+ {
+   "species-name": "torreyana var. insularis",
+   "common-name": "Island Torrey pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Pinus",
+   "infrageneric-level-II": "Section Trifoliae",
+   "infrageneric-level-III": "Subsection Sabinianae"
+ },
+ {
+   "species-name": "nelsonii",
+   "common-name": "Nelson's pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Nelsonia",
+   "infrageneric-level-III": ""
+ },
+ {
+   "species-name": "aristata",
+   "common-name": "Rocky Mountain bristlecone pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Balfourianae"
+ },
+ {
+   "species-name": "balfouriana",
+   "common-name": "Northern foxtail pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Balfourianae"
+ },
+ {
+   "species-name": "balfouriana ssp. austrina",
+   "common-name": "Southern foxtail pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Balfourianae"
+ },
+ {
+   "species-name": "longaeva",
+   "common-name": "Great Basin bristlecone pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Balfourianae"
+ },
+ {
+   "species-name": "cembroides",
+   "common-name": "Mexican pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "cembroides ssp. lagunae",
+   "common-name": "Laguna pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "culminicola",
+   "common-name": "Potosi pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "discolor",
+   "common-name": "Border pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "edulis",
+   "common-name": "Colorado pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "johannis",
+   "common-name": "Dwarf pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "monophylla",
+   "common-name": "Singleleaf pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "monophylla var. californiarum",
+   "common-name": "California singleleaf pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "monophylla var. fallax",
+   "common-name": "Arizona singleleaf pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "orizabensis",
+   "common-name": "Orizaba pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "quadrifolia",
+   "common-name": "Parry pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "remota",
+   "common-name": "Texas pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Cembroides"
+ },
+ {
+   "species-name": "maximartinezii",
+   "common-name": "Bigcone pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Rzedowskiae"
+ },
+ {
+   "species-name": "pinceana",
+   "common-name": "Weeping pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Rzedowskiae"
+ },
+ {
+   "species-name": "rzedowskii",
+   "common-name": "Rzedowski's pinyon",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Parrya",
+   "infrageneric-level-III": "Subsection Rzedowskiae"
+ },
+ {
+   "species-name": "bungeana",
+   "common-name": "Lacebark pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Gerardianae"
+ },
+ {
+   "species-name": "gerardiana",
+   "common-name": "Chilgoza pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Gerardianae"
+ },
+ {
+   "species-name": "squamata",
+   "common-name": "Qiaojia pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Gerardianae"
+ },
+ {
+   "species-name": "krempfii",
+   "common-name": "Broadleaf pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Krempfianae"
+ },
+ {
+   "species-name": "amamiana",
+   "common-name": "Yakushima white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "albicaulis",
+   "common-name": "Whitebark pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "armandii",
+   "common-name": "Chinese white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "armandii var. mastersiana",
+   "common-name": "Masters white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "ayacahuite",
+   "common-name": "Mexican white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "bhutanica",
+   "common-name": "Bhutan pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "cembra",
+   "common-name": "Swiss stone pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "cernua",
+   "common-name": "Laotian white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "chiapensis",
+   "common-name": "Chiapas white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "dalatensis",
+   "common-name": "Vietnamese white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "fenzeliana",
+   "common-name": "Hainan white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "fenzeliana var. dabeshanensis",
+   "common-name": "Small-needle Hainan white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "flexilis",
+   "common-name": "Limber pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "× hakkodensis",
+   "common-name": "Hakkodo pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "koraiensis",
+   "common-name": "Korean pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "kwangtungensis",
+   "common-name": "Hunan white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "lambertiania",
+   "common-name": "Sugar pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "monticola",
+   "common-name": "Western white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "morrisonicola",
+   "common-name": "Taiwan white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "parviflora",
+   "common-name": "Japanese white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "parviflora var. pentaphylla",
+   "common-name": "Winged Japanese white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "peuce",
+   "common-name": "Macedonian pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "pumila",
+   "common-name": "Siberian dwarf pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "sibirica",
+   "common-name": "Siberian pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "strobiformis",
+   "common-name": "Chihuahua white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "strobiformis ssp. veitchii",
+   "common-name": "Bigcone white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "strobus",
+   "common-name": "Eastern white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "stylesii",
+   "common-name": "Southwestern white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "wallichiana",
+   "common-name": "Himalayan white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ },
+ {
+   "species-name": "wangii",
+   "common-name": "Guangdong white pine",
+   "family-name": "Pinaceae",
+   "genus-name": "Pinus",
+   "infrageneric-level-I": "Subgenus Strobus",
+   "infrageneric-level-II": "Section Quinquefoliae",
+   "infrageneric-level-III": "Subsection Strobus"
+ }
+]

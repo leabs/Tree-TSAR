@@ -58,3 +58,11 @@ collections:
     family-name: Pinaceae
     genus-name: keteleeria
     permalink: /trees/pinaceae/:collection/:name
+  pinus:
+    output: true
+    family-name: Pinaceae
+    genus-name: pinus
+    id_key: species-name
+    layout: species
+    source: pinus.json
+    permalink: /trees/pinaceae/:collection/:name
