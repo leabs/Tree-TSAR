@@ -45,3 +45,14 @@ collections:
     family-name: Pinaceae
     genus-name: Cathaya
     permalink: /trees/pinaceae/:collection/:name
+  cedrus:
+    output: true
+    family-name: Pinaceae
+    genus-name: cedrus
+    source: cedrus.json
+    permalink: /trees/pinaceae/:collection/:name
+  keteleeria:
+    output: true
+    family-name: Pinaceae
+    genus-name: keteleeria
+    permalink: /trees/pinaceae/:collection/:name
