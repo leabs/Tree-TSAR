@@ -1,0 +1,1080 @@
+[
+ {
+   "species-name": "alba",
+   "common-name": "Silver fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "borisii-regis",
+   "common-name": "King Boris fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "bornmuelleriana",
+   "common-name": "Turkish fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "bornmuelleriana ssp. equi-trojani",
+   "common-name": "Trojan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "bornmuelleriana ssp. olcayana",
+   "common-name": "Chataldag fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "cephalonica",
+   "common-name": "Greek fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "cilicica",
+   "common-name": "Cilician fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "cilicica ssp. isaurica",
+   "common-name": "Isaurian fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "× insignis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "nebrodensis",
+   "common-name": "Sicilian fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "nordmanniana",
+   "common-name": "Nordmann fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "numidica",
+   "common-name": "Algerian fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "pinsapo",
+   "common-name": "Spanish fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "pinsapo ssp. marocana",
+   "common-name": "Moroccan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "pinsapo ssp. marocana var. tazaotana",
+   "common-name": "Mt. Tazaot fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "× vilmorinii",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Abies"
+ },
+ {
+   "species-name": "amabilis",
+   "common-name": "Pacific silver fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Amabilis"
+ },
+ {
+   "species-name": "mariesii",
+   "common-name": "Maries' fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Amabilis"
+ },
+ {
+   "species-name": "× arnoldiana",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "balsamea",
+   "common-name": "Balsam fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "balsamea var. phanerolepis",
+   "common-name": "Canaan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "fraseri",
+   "common-name": "Fraser fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "koreana",
+   "common-name": "Korean fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "lasiocarpa",
+   "common-name": "Subalpine fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "nephrolepis",
+   "common-name": "Manchurian fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "sachalinensis",
+   "common-name": "Sakhalin fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "sibirica",
+   "common-name": "Siberian fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "veitchii",
+   "common-name": "Veitch's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "koreana × lasiocarpa",
+   "common-name": "Koreocarpa fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "Section Bracteata",
+   "common-name": "Bristlecone fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "bracteata",
+   "common-name": "Bristlecone fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "Section Grandis",
+   "common-name": "Grand firs",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "concolor",
+   "common-name": "White fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "durangensis",
+   "common-name": "Durango fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "flinckii",
+   "common-name": "Jalisco fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "grandis",
+   "common-name": "Grand fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "guatemalensis",
+   "common-name": "Guatemalan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "hickelii",
+   "common-name": "Oaxacan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "religiosa",
+   "common-name": "Sacred fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "vejarii",
+   "common-name": "Vejar's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Balsamea"
+ },
+ {
+   "species-name": "magnifica",
+   "common-name": "California red fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Nobilis"
+ },
+ {
+   "species-name": "procera",
+   "common-name": "Noble fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Nobilis"
+ },
+ {
+   "species-name": "× shastensis",
+   "common-name": "Shasta fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Nobilis"
+ },
+ {
+   "species-name": "beshanzuensis",
+   "common-name": "Baishan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "× chengii",
+   "common-name": "Cheng's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "chensiana",
+   "common-name": "River fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "delavayi",
+   "common-name": "Delavay's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "densa",
+   "common-name": "Bhutan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "ernestii",
+   "common-name": "Wilson's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "fabri",
+   "common-name": "Faber's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "fanjingshanensis",
+   "common-name": "Fanjingshan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "fargesii",
+   "common-name": "Farges fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "fargesii var. faxoniana",
+   "common-name": "Faxon's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "firma",
+   "common-name": "Momi fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "forrestii",
+   "common-name": "Forrest's fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "georgei",
+   "common-name": "Rusty fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "holophylla",
+   "common-name": "Needle fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "homolepis",
+   "common-name": "Nikko fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "nukiangensis",
+   "common-name": "Nukiang fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "pindrow",
+   "common-name": "West Himalayan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "recurvata",
+   "common-name": "Min fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "salouenensis",
+   "common-name": "Salween fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "spectabilis",
+   "common-name": "East Himalayan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "squamata",
+   "common-name": "Flaky fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "× umbellata",
+   "common-name": "Dimplecone fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "yuanbaoshanensis",
+   "common-name": "Yuanbaoshan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "ziyuanensis",
+   "common-name": "Zhihuan fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "",
+   "common-name": "Silver-fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "argyrophylla",
+   "common-name": "Chinese silver-fir",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "atlantica",
+   "common-name": "Atlas cedar",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "brevifolia",
+   "common-name": "Cypriot cedar",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "deodara",
+   "common-name": "Deodar cedar",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "libani",
+   "common-name": "Cedar of Lebanon",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "libani var. stenocoma",
+   "common-name": "Taurus cedar",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "davidiana",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "evelyniana",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "fortunei",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "Section Pseudopicea"
+ },
+ {
+   "species-name": "laricina",
+   "common-name": "American larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North American Clade"
+ },
+ {
+   "species-name": "lyallii",
+   "common-name": "Alpine larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North American Clade"
+ },
+ {
+   "species-name": "occidentalis",
+   "common-name": "Western larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North American Clade"
+ },
+ {
+   "species-name": "archangelica",
+   "common-name": "Russian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "× czekanowskii",
+   "common-name": "Taiga larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "decidua",
+   "common-name": "European larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "decidua var. carpatica",
+   "common-name": "Carpathian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "decidua var. polonica",
+   "common-name": "Polish larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii",
+   "common-name": "Dahurian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii var. japonica",
+   "common-name": "Kuril larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii var. olgensis",
+   "common-name": "Olga Bay Larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii var. principis-rupprechtii",
+   "common-name": "North China larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "kaempferi",
+   "common-name": "Japanese larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "× marschlinsii",
+   "common-name": "Dunkeld larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "sibirica",
+   "common-name": "Siberian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "griffithii",
+   "common-name": "Sikkim larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "griffithii var. speciosa",
+   "common-name": "Yunnan larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "kongboensis",
+   "common-name": "Kongbo larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "mastersiana",
+   "common-name": "Sichuan larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "potaninii",
+   "common-name": "Rusty larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "potaninii var. chinensis",
+   "common-name": "Chinese larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "potaninii var. himalaica",
+   "common-name": "Langtang larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "",
+   "common-name": "Bristlecone-hemlock",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "longibracteata",
+   "common-name": "Bristlecone-hemlock",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "",
+   "common-name": "Spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "abies",
+   "common-name": "Norway spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "× albertiana",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "alcoquiana",
+   "common-name": "Alcock spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "alcoquiana var. acicularis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "alcoquiana var. reflexa",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "asperata",
+   "common-name": "Dragon spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "asperata var. notabilis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "asperata var. ponderosa",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "aurantiaca",
+   "common-name": "Orange spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "brachytyla",
+   "common-name": "Sargent spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "brachytyla var. complanata",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "chihuahuana",
+   "common-name": "Chihuahua spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "crassifolia",
+   "common-name": "Qinghai spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "engelmannii",
+   "common-name": "Engelmann spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "engelmannii ssp. mexicana",
+   "common-name": "Mexican spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "farreri",
+   "common-name": "Burmese spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "× fennica",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "glauca",
+   "common-name": "White spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "glauca var. densata",
+   "common-name": "Black Hills spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "glehnii",
+   "common-name": "Sakhalin spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "jezoensis",
+   "common-name": "Yezo spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "jezoensis ssp. jezoensis var. komarovii",
+   "common-name": "Yellow Yezo spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "jezoensis ssp. hondoensis",
+   "common-name": "Hondo spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "koraiensis",
+   "common-name": "Korean spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "koyamae",
+   "common-name": "Koyama spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "likiangensis",
+   "common-name": "Lijiang spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "likiangensis var. hirtella",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "likiangensis var. linzhiensis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "likiangensis var. rubescens",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "× lutzii",
+   "common-name": "Lutz's spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "mariana",
+   "common-name": "Black spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "martinezii",
+   "common-name": "Nuevo León spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "maximowiczii",
+   "common-name": "Japanese bush spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "meyeri",
+   "common-name": "Meyer spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "morrisonicola",
+   "common-name": "Taiwan spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "neoveitchii",
+   "common-name": "Hubei spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "obovata",
+   "common-name": "Siberian spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "omorika",
+   "common-name": "Serbian spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "orientalis",
+   "common-name": "Oriental spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "pungens",
+   "common-name": "Colorado blue spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "purpurea",
+   "common-name": "Purplecone spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "retroflexa",
+   "common-name": "Tapaoshan spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "rubens",
+   "common-name": "Red spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "schrenkiana",
+   "common-name": "Snowridge spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "schrenkiana ssp. tianschanica",
+   "common-name": "Tianshan spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "sikangensis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "sitchensis",
+   "common-name": "Sitka spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "smithiana",
+   "common-name": "Morinda spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "spinulosa",
+   "common-name": "Sikkim spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "torano",
+   "common-name": "Tigertail spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "wilsonii",
+   "common-name": "Wilson's spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Abies",
+   "infrageneric-level-I": "South Asian Clade"
+ }
+]

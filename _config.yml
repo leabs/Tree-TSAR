@@ -36,7 +36,7 @@ collections:
     output: true
     family-name: Pinaceae
     genus-name: Abies
-    source: abies.json
+    source: abies-all.json
     id_key: species-name
     layout: species
     permalink: /trees/pinaceae/:collection/:name
@@ -49,6 +49,8 @@ collections:
     output: true
     family-name: Pinaceae
     genus-name: cedrus
+    id_key: species-name
+    layout: species
     source: cedrus.json
     permalink: /trees/pinaceae/:collection/:name
   keteleeria:
