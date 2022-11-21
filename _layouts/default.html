@@ -83,6 +83,7 @@
 
   <body>
     <div>{{ content }}</div>
+    {% include cookie-consent.html %}
     <script src="{{site.baseurl}}/assets/js/scripts.js" async></script>
 
     <!-- Google tag (gtag.js) -->
@@ -96,6 +97,5 @@
       crossorigin="anonymous"
       async
     ></script>
-    {% include cookie-consent.html %}
   </body>
 </html>
