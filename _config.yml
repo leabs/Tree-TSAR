@@ -40,3 +40,8 @@ collections:
     id_key: species-name
     layout: species
     permalink: /trees/pinaceae/:collection/:name
+  cathaya:
+    output: true
+    family-name: Pinaceae
+    genus-name: Cathaya
+    permalink: /trees/pinaceae/:collection/:name
