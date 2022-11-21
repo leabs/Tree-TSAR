@@ -34,9 +34,9 @@
     <!--Critical CSS styles-->
     <style>
       @font-face {
-    font-family: Lumberjack;
-    src: url("{{site.baseurl}}/assets/Lumberjack.otf") format("opentype");
-    }
+        font-family: Lumberjack;
+        src: url("{{site.baseurl}}/assets/Lumberjack.otf") format("opentype");
+      }
       .btn-primary {
         --bs-btn-color: #fff;
         --bs-btn-bg: #4d621e;
@@ -74,9 +74,9 @@
         position: relative;
       }
       /*set heading as lumberjack font*/
-      h1, .lumberjack {
+      h1,
+      .lumberjack {
         font-family: "Lumberjack", sans-serif;
-
       }
     </style>
   </head>
@@ -85,23 +85,20 @@
     <div>{{ content }}</div>
     <script src="{{site.baseurl}}/assets/js/scripts.js" async></script>
 
-    
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-8BYEE5J0YD"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-    <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-    <!-- <script>
-      window.ga = function () {
-        ga.q.push(arguments);
-      };
-      ga.q = [];
-      ga.l = +new Date();
-      ga("create", "G-8BYEE5J0YD", "auto");
-      ga("set", "anonymizeIp", true);
-      ga("set", "transport", "beacon");
-      ga("send", "pageview");
+      gtag("config", "G-8BYEE5J0YD");
     </script>
-    
-    <script src="https://www.google-analytics.com/analytics.js" async></script> -->
-    <!-- JavaScript Bundle with Popper -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
