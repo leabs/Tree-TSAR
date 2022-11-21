@@ -66,3 +66,19 @@ collections:
     layout: species
     source: pinus.json
     permalink: /trees/pinaceae/:collection/:name
+  Pseudotsuga:
+    output: true
+    family-name: Pinaceae
+    genus-name: Pseudotsuga
+    id_key: species-name
+    layout: species
+    source: Pseudotsuga.json
+    permalink: /trees/pinaceae/:collection/:name
+  tsuga:
+    output: true
+    family-name: Pinaceae
+    genus-name: tsuga
+    id_key: species-name
+    layout: species
+    source: tsuga.json
+    permalink: /trees/pinaceae/:collection/:name

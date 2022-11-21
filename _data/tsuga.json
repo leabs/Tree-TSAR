@@ -1,0 +1,100 @@
+[
+  {
+    "species-name": "canadensis",
+    "common-name": "Eastern hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "caroliniana",
+    "common-name": "Carolina hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "chinensis",
+    "common-name": "Chinese hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "chinensis var& oblongisquamata",
+    "common-name": "Long-scale Chinese hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "chinensis var& robusta",
+    "common-name": "",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "chinensis var& tchekiangensis",
+    "common-name": "",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "diversifolia",
+    "common-name": "Northern Japanese hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "dumosa",
+    "common-name": "Himalayan hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "formosana",
+    "common-name": "Taiwan hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "forrestii",
+    "common-name": "Lijiang hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "heterophylla",
+    "common-name": "Western hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "mertensiana",
+    "common-name": "Mountain hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "sieboldii",
+    "common-name": "Southern Japanese hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  },
+  {
+    "species-name": "ulleungensis",
+    "common-name": "Ullung hemlock",
+    "family-name": "Pinaceae",
+    "genus-name": "Tsuga",
+    "infrageneric-level-I": ""
+  }
+]

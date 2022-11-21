@@ -32,7 +32,17 @@ sections:
     match: "**/*"
   - type: directory
     path: _pinus
-    label: pinus
+    label: Pinus
+    create: all
+    match: "**/*"
+  - type: directory
+    path: _pseudotsuga
+    label: Pseudotsuga
+    create: all
+    match: "**/*"
+  - type: directory
+    path: _tsuga
+    label: Tsuga
     create: all
     match: "**/*"
 upload_dir: uploads
