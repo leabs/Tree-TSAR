@@ -5,8 +5,14 @@ layout: none
     {% for trees in site.abies %}
     {
       "title"    : "{{ trees.title | escape }}",
-      "category" : "{{ trees.category }}",
-      "tags"     : "{{ trees.tags | join: ', ' }}",
+      "common-name"     : "{{ trees.common-name }}",
+      "url"      : "{{ site.baseurl }}{{ trees.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% for trees in site.pinus %}
+    {
+      "title"    : "{{ trees.title | escape }}",
       "common-name"     : "{{ trees.common-name }}",
       "url"      : "{{ site.baseurl }}{{ trees.url }}"
     } {% unless forloop.last %},{% endunless %}
