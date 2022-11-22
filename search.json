@@ -2,27 +2,20 @@
 layout: none
 ---
 [
-    {% for trees in site.posts %}
+  {% for post in site.abies %}
     {
-      "title"    : "{{ trees.title | escape }}",
-      "common-name"     : "{{ trees.common-name }}",
-      "url"      : "{{ site.baseurl }}{{ trees.url }}"
+      "title"    : "{{ post.title | escape }}",
+      "common-name" : "{{ post.common-name }}",
+      "species-name"     : "{{ post.species-name }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
     } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
-  {% for trees in site.pinus %}
+  {% endfor %},
+  {% for post in site.pinus %}
     {
-      "title"    : "{{ trees.title | escape }}",
-      "common-name"     : "{{ trees.common-name }}",
-      "url"      : "{{ site.baseurl }}{{ trees.url }}"
+      "title"    : "{{ post.title | escape }}",
+      "common-name" : "{{ post.common-name }}",
+      "species-name"     : "{{ post.species-name }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
     } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
-  {% for page in site.pages %}
-    {
-      "title"    : "{{ page.title | escape }}",
-      "url"      : "{{ site.baseurl }}{{ page.url }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-
+  {% endfor %},
 ]
