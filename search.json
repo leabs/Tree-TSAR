@@ -2,7 +2,7 @@
 layout: none
 ---
 [
-    {% for trees in site.abies %}
+    {% for trees in site.posts %}
     {
       "title"    : "{{ trees.title | escape }}",
       "common-name"     : "{{ trees.common-name }}",
