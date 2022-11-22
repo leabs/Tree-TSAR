@@ -1,5 +1,5 @@
 ---
-species-name: fargesii var. faxoniana
+species-name: fargesii var& faxoniana
 common-name: Faxon's fir
 family-name: Pinaceae
 genus-name: Abies

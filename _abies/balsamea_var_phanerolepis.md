@@ -1,5 +1,5 @@
 ---
-species-name: balsamea var. phanerolepis
+species-name: balsamea var& phanerolepis
 common-name: Canaan fir
 family-name: Pinaceae
 genus-name: Abies

@@ -1,5 +1,5 @@
 ---
-species-name: pinsapo ssp. marocana
+species-name: pinsapo ssp& marocana
 common-name: Moroccan fir
 family-name: Pinaceae
 genus-name: Abies

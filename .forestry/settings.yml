@@ -36,8 +36,23 @@ sections:
     create: all
     match: "**/*"
   - type: directory
+    path: _nothotsuga
+    label: Nothotsuga
+    create: all
+    match: "**/*"
+  - type: directory
+    path: _picea
+    label: Picea
+    create: all
+    match: "**/*"
+  - type: directory
     path: _pinus
     label: Pinus
+    create: all
+    match: "**/*"
+  - type: directory
+    path: _pseudolarix
+    label: Pseudolarix
     create: all
     match: "**/*"
   - type: directory
