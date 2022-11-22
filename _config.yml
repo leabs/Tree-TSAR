@@ -101,7 +101,7 @@ collections:
     genus-name: pseudotsuga
     id_key: species-name
     layout: species
-    source: Pseudotsuga.json
+    source: pseudotsuga.json
     permalink: /trees/pinaceae/:collection/:name
   tsuga:
     output: true

@@ -37,6 +37,30 @@ genuses:
       "url"      : "{{ site.baseurl }}{{ post.url }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
+  {% for post in site.larix %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "common-name" : "{{ post.common-name }}",
+      "species-name"     : "{{ post.species-name }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for post in site.nothotsuga %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "common-name" : "{{ post.common-name }}",
+      "species-name"     : "{{ post.species-name }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for post in site.picea %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "common-name" : "{{ post.common-name }}",
+      "species-name"     : "{{ post.species-name }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
   {% for post in site.pinus %}
     {
       "title"    : "{{ post.title | escape }}",
@@ -44,7 +68,23 @@ genuses:
       "species-name"     : "{{ post.species-name }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}"
     } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+  {% endfor %},
+  {% for post in site.pseudolarix %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "common-name" : "{{ post.common-name }}",
+      "species-name"     : "{{ post.species-name }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for post in site.pseudotsuga %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "common-name" : "{{ post.common-name }}",
+      "species-name"     : "{{ post.species-name }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
   {% for post in site.tsuga %}
     {
       "title"    : "{{ post.title | escape }}",
