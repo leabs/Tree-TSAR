@@ -21,14 +21,14 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "alcoquiana var. acicularis",
+   "species-name": "alcoquiana var& acicularis",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "alcoquiana var. reflexa",
+   "species-name": "alcoquiana var& reflexa",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
@@ -42,14 +42,14 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "asperata var. notabilis",
+   "species-name": "asperata var& notabilis",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "asperata var. ponderosa",
+   "species-name": "asperata var& ponderosa",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
@@ -70,7 +70,7 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "brachytyla var. complanata",
+   "species-name": "brachytyla var& complanata",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
@@ -98,7 +98,7 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "engelmannii ssp. mexicana",
+   "species-name": "engelmannii ssp& mexicana",
    "common-name": "Mexican spruce",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
@@ -126,7 +126,7 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "glauca var. densata",
+   "species-name": "glauca var& densata",
    "common-name": "Black Hills spruce",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
@@ -147,14 +147,14 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "jezoensis ssp. jezoensis var. komarovii",
+   "species-name": "jezoensis ssp& jezoensis var& komarovii",
    "common-name": "Yellow Yezo spruce",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "jezoensis ssp. hondoensis",
+   "species-name": "jezoensis ssp& hondoensis",
    "common-name": "Hondo spruce",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
@@ -182,21 +182,21 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "likiangensis var. hirtella",
+   "species-name": "likiangensis var& hirtella",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "likiangensis var. linzhiensis",
+   "species-name": "likiangensis var& linzhiensis",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "likiangensis var. rubescens",
+   "species-name": "likiangensis var& rubescens",
    "common-name": "",
    "family-name": "Pinaceae",
    "genus-name": "Picea",
@@ -308,7 +308,7 @@
    "infrageneric-level-I": ""
  },
  {
-   "species-name": "schrenkiana ssp. tianschanica",
+   "species-name": "schrenkiana ssp& tianschanica",
    "common-name": "Tianshan spruce",
    "family-name": "Pinaceae",
    "genus-name": "Picea",

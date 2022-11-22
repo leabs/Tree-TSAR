@@ -31,6 +31,11 @@ sections:
     create: all
     match: "**/*"
   - type: directory
+    path: _larix
+    label: Larix
+    create: all
+    match: "**/*"
+  - type: directory
     path: _pinus
     label: Pinus
     create: all
