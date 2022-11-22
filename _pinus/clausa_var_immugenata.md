@@ -1,5 +1,5 @@
 ---
-species-name: clausa var. immugenata
+species-name: clausa var& immugenata
 common-name: Choctawhatchee sand pine
 family-name: Pinaceae
 genus-name: Pinus

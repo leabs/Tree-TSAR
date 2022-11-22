@@ -1,5 +1,5 @@
 ---
-species-name: cembroides ssp. lagunae
+species-name: cembroides ssp& lagunae
 common-name: Laguna pinyon
 family-name: Pinaceae
 genus-name: Pinus

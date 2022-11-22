@@ -1,5 +1,5 @@
 ---
-species-name: tabuliformis var. mukdensis
+species-name: tabuliformis var& mukdensis
 common-name: North Korean pine
 family-name: Pinaceae
 genus-name: Pinus

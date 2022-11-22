@@ -1,5 +1,5 @@
 ---
-species-name: nigra ssp. salzmannii
+species-name: nigra ssp& salzmannii
 common-name: Spanish pine
 family-name: Pinaceae
 genus-name: Pinus

@@ -1,5 +1,5 @@
 ---
-species-name: armandii var. mastersiana
+species-name: armandii var& mastersiana
 common-name: Masters white pine
 family-name: Pinaceae
 genus-name: Pinus

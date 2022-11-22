@@ -1,5 +1,5 @@
 ---
-species-name: parviflora var. pentaphylla
+species-name: parviflora var& pentaphylla
 common-name: Winged Japanese white pine
 family-name: Pinaceae
 genus-name: Pinus

@@ -1,5 +1,5 @@
 ---
-species-name: tabuliformis var. umbraculifera
+species-name: tabuliformis var& umbraculifera
 common-name: ''
 family-name: Pinaceae
 genus-name: Pinus

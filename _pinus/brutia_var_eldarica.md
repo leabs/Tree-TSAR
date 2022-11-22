@@ -1,5 +1,5 @@
 ---
-species-name: brutia var. eldarica
+species-name: brutia var& eldarica
 common-name: Calabrian pine
 family-name: Pinaceae
 genus-name: Pinus

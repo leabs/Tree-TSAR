@@ -1,5 +1,5 @@
 ---
-species-name: ponderosa ssp. benthamiana
+species-name: ponderosa ssp& benthamiana
 common-name: Pacific pine
 family-name: Pinaceae
 genus-name: Pinus

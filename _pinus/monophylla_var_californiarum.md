@@ -1,5 +1,5 @@
 ---
-species-name: monophylla var. californiarum
+species-name: monophylla var& californiarum
 common-name: California singleleaf pinyon
 family-name: Pinaceae
 genus-name: Pinus

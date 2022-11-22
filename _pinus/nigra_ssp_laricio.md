@@ -1,5 +1,5 @@
 ---
-species-name: nigra ssp. laricio
+species-name: nigra ssp& laricio
 common-name: Corsican pine
 family-name: Pinaceae
 genus-name: Pinus

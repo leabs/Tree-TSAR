@@ -1,5 +1,5 @@
 ---
-species-name: contorta ssp. murrayana
+species-name: contorta ssp& murrayana
 common-name: Sierra lodgepole pine
 family-name: Pinaceae
 genus-name: Pinus

@@ -1,5 +1,5 @@
 ---
-species-name: nigra ssp. dalmatica
+species-name: nigra ssp& dalmatica
 common-name: Dalmatian pine
 family-name: Pinaceae
 genus-name: Pinus

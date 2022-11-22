@@ -1,5 +1,5 @@
 ---
-species-name: leiophylla var. chihuahuana
+species-name: leiophylla var& chihuahuana
 common-name: Chihuahua pine
 family-name: Pinaceae
 genus-name: Pinus

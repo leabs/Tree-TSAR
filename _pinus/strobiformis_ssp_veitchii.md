@@ -1,5 +1,5 @@
 ---
-species-name: strobiformis ssp. veitchii
+species-name: strobiformis ssp& veitchii
 common-name: Bigcone white pine
 family-name: Pinaceae
 genus-name: Pinus

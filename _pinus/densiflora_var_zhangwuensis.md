@@ -1,5 +1,5 @@
 ---
-species-name: densiflora var. zhangwuensis
+species-name: densiflora var& zhangwuensis
 common-name: Zhangwu red pine
 family-name: Pinaceae
 genus-name: Pinus

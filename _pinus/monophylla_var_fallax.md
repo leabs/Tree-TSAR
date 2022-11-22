@@ -1,5 +1,5 @@
 ---
-species-name: monophylla var. fallax
+species-name: monophylla var& fallax
 common-name: Arizona singleleaf pinyon
 family-name: Pinaceae
 genus-name: Pinus

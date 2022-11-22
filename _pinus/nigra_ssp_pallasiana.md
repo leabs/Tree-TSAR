@@ -1,5 +1,5 @@
 ---
-species-name: nigra ssp. pallasiana
+species-name: nigra ssp& pallasiana
 common-name: Crimean pine
 family-name: Pinaceae
 genus-name: Pinus

@@ -1,5 +1,5 @@
 ---
-species-name: fenzeliana var. dabeshanensis
+species-name: fenzeliana var& dabeshanensis
 common-name: Small-needle Hainan white pine
 family-name: Pinaceae
 genus-name: Pinus

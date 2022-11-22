@@ -1,5 +1,5 @@
 ---
-species-name: radiata var. binata
+species-name: radiata var& binata
 common-name: Guadelupe Island pine
 family-name: Pinaceae
 genus-name: Pinus

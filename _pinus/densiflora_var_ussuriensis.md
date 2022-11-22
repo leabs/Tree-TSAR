@@ -1,5 +1,5 @@
 ---
-species-name: densiflora var. ussuriensis
+species-name: densiflora var& ussuriensis
 common-name: Ussurian red pine
 family-name: Pinaceae
 genus-name: Pinus

@@ -1,5 +1,5 @@
 ---
-species-name: balfouriana ssp. austrina
+species-name: balfouriana ssp& austrina
 common-name: Southern foxtail pine
 family-name: Pinaceae
 genus-name: Pinus

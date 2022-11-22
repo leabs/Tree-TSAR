@@ -1,5 +1,5 @@
 ---
-species-name: contorta ssp. latifolia
+species-name: contorta ssp& latifolia
 common-name: Lodgepole pine
 family-name: Pinaceae
 genus-name: Pinus

@@ -1,5 +1,5 @@
 ---
-species-name: torreyana var. insularis
+species-name: torreyana var& insularis
 common-name: Island Torrey pine
 family-name: Pinaceae
 genus-name: Pinus

@@ -1,5 +1,5 @@
 ---
-species-name: yecorensis var. sinaloensis
+species-name: yecorensis var& sinaloensis
 common-name: Sinaloa pine
 family-name: Pinaceae
 genus-name: Pinus

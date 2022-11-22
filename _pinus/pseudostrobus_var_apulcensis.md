@@ -1,5 +1,5 @@
 ---
-species-name: pseudostrobus var. apulcensis
+species-name: pseudostrobus var& apulcensis
 common-name: Oaxacan pine
 family-name: Pinaceae
 genus-name: Pinus
