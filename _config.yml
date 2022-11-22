@@ -58,6 +58,27 @@ collections:
     family-name: Pinaceae
     genus-name: keteleeria
     permalink: /trees/pinaceae/:collection/:name
+  larix:
+    output: true
+    family-name: Pinaceae
+    genus-name: larix
+    id_key: species-name
+    layout: species
+    source: larix.json
+    permalink: /trees/pinaceae/:collection/:name
+  nothotsuga:
+    output: true
+    family-name: Pinaceae
+    genus-name: nothotsuga
+    permalink: /trees/pinaceae/:collection/:name
+  picea:
+    output: true
+    family-name: Pinaceae
+    genus-name: picea
+    id_key: species-name
+    layout: species
+    source: picea.json
+    permalink: /trees/pinaceae/:collection/:name
   pinus:
     output: true
     family-name: Pinaceae
@@ -66,10 +87,18 @@ collections:
     layout: species
     source: pinus.json
     permalink: /trees/pinaceae/:collection/:name
-  Pseudotsuga:
+  pseudolarix:
     output: true
     family-name: Pinaceae
-    genus-name: Pseudotsuga
+    genus-name: pseudolarix
+    id_key: species-name
+    layout: species
+    source: pseudolarix.json
+    permalink: /trees/pinaceae/:collection/:name
+  pseudotsuga:
+    output: true
+    family-name: Pinaceae
+    genus-name: pseudotsuga
     id_key: species-name
     layout: species
     source: Pseudotsuga.json

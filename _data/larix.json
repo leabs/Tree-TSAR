@@ -1,0 +1,156 @@
+[
+ {
+   "species-name": "laricina",
+   "common-name": "American larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North American Clade"
+ },
+ {
+   "species-name": "lyallii",
+   "common-name": "Alpine larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North American Clade"
+ },
+ {
+   "species-name": "occidentalis",
+   "common-name": "Western larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North American Clade"
+ },
+ {
+   "species-name": "archangelica",
+   "common-name": "Russian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "× czekanowskii",
+   "common-name": "Taiga larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "decidua",
+   "common-name": "European larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "decidua var. carpatica",
+   "common-name": "Carpathian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "decidua var. polonica",
+   "common-name": "Polish larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii",
+   "common-name": "Dahurian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii var. japonica",
+   "common-name": "Kuril larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii var. olgensis",
+   "common-name": "Olga Bay Larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "gmelinii var. principis-rupprechtii",
+   "common-name": "North China larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "kaempferi",
+   "common-name": "Japanese larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "× marschlinsii",
+   "common-name": "Dunkeld larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "sibirica",
+   "common-name": "Siberian larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "North Eurasian Clade"
+ },
+ {
+   "species-name": "griffithii",
+   "common-name": "Sikkim larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "griffithii var. speciosa",
+   "common-name": "Yunnan larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "kongboensis",
+   "common-name": "Kongbo larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "mastersiana",
+   "common-name": "Sichuan larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "potaninii",
+   "common-name": "Rusty larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "potaninii var. chinensis",
+   "common-name": "Chinese larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "South Asian Clade"
+ },
+ {
+   "species-name": "potaninii var. himalaica",
+   "common-name": "Langtang larch",
+   "family-name": "Pinaceae",
+   "genus-name": "Larix",
+   "infrageneric-level-I": "South Asian Clade"
+ }
+]

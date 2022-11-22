@@ -1,0 +1,359 @@
+[
+ {
+   "species-name": "abies",
+   "common-name": "Norway spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "× albertiana",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "alcoquiana",
+   "common-name": "Alcock spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "alcoquiana var. acicularis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "alcoquiana var. reflexa",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "asperata",
+   "common-name": "Dragon spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "asperata var. notabilis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "asperata var. ponderosa",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "aurantiaca",
+   "common-name": "Orange spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "brachytyla",
+   "common-name": "Sargent spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "brachytyla var. complanata",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "chihuahuana",
+   "common-name": "Chihuahua spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "crassifolia",
+   "common-name": "Qinghai spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "engelmannii",
+   "common-name": "Engelmann spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "engelmannii ssp. mexicana",
+   "common-name": "Mexican spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "farreri",
+   "common-name": "Burmese spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "× fennica",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "glauca",
+   "common-name": "White spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "glauca var. densata",
+   "common-name": "Black Hills spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "glehnii",
+   "common-name": "Sakhalin spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "jezoensis",
+   "common-name": "Yezo spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "jezoensis ssp. jezoensis var. komarovii",
+   "common-name": "Yellow Yezo spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "jezoensis ssp. hondoensis",
+   "common-name": "Hondo spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "koraiensis",
+   "common-name": "Korean spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "koyamae",
+   "common-name": "Koyama spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "likiangensis",
+   "common-name": "Lijiang spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "likiangensis var. hirtella",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "likiangensis var. linzhiensis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "likiangensis var. rubescens",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "× lutzii",
+   "common-name": "Lutz's spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "mariana",
+   "common-name": "Black spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "martinezii",
+   "common-name": "Nuevo León spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "maximowiczii",
+   "common-name": "Japanese bush spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "meyeri",
+   "common-name": "Meyer spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "morrisonicola",
+   "common-name": "Taiwan spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "neoveitchii",
+   "common-name": "Hubei spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "obovata",
+   "common-name": "Siberian spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "omorika",
+   "common-name": "Serbian spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "orientalis",
+   "common-name": "Oriental spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "pungens",
+   "common-name": "Colorado blue spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "purpurea",
+   "common-name": "Purplecone spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "retroflexa",
+   "common-name": "Tapaoshan spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "rubens",
+   "common-name": "Red spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "schrenkiana",
+   "common-name": "Snowridge spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "schrenkiana ssp. tianschanica",
+   "common-name": "Tianshan spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "sikangensis",
+   "common-name": "",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "sitchensis",
+   "common-name": "Sitka spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "smithiana",
+   "common-name": "Morinda spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "spinulosa",
+   "common-name": "Sikkim spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "torano",
+   "common-name": "Tigertail spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ },
+ {
+   "species-name": "wilsonii",
+   "common-name": "Wilson's spruce",
+   "family-name": "Pinaceae",
+   "genus-name": "Picea",
+   "infrageneric-level-I": ""
+ }
+]
