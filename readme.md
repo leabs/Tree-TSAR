@@ -24,7 +24,7 @@ layout: species
 Click `Create New` then select `Pages` within the genus the species lives. Fill out the required information to generate the page. Layout needs to be `species` as this is a species page.
 
 ## Building this site locally
-First make sure you are able to build a jekyll site locally using their [installation documentation](https://jekyllrb.com/docs/installation/). Once you have the required software, clone this directory, navigate to it within the terminal andd run `bundle install` to install the required gems this repo uses. Once done, run `bundle exec jekyll serve` and that command will build and host the site on your machine on `http://localhost:4000/`
+First make sure you are able to build a jekyll site locally using their [installation documentation](https://jekyllrb.com/docs/installation/). Once you have the required software, clone this directory, navigate to it within the terminal andd run `bundle install` to install the required gems this repo uses. Once done, run `bundle exec jekyll serve` and that command will build and host the site on your machine on [http://localhost:4000/](http://localhost:4000/).
 
 ## Building collections from data files into markdown files:
 We can compile species pages via data by formatting .csv or .json and putting the files in the _data directory using [jekyll-pagemaster](https://github.com/mnyrop/pagemaster/#readme). From there ensure that the required properties are listed in the collection within `_config.yml`. 
