@@ -1,4 +1,4 @@
-# Tree TSAR repo
+# Tree TSAR
 
 ## Quick notes on this repo
 Files within the `_site` directory should be left alone, as they are the output files when the site builds. If we need to adjust a section, add a species, or edit a genus, that should all be done **outside** the _site directory. More information on jekyll directory structure can be found [here](https://jekyllrb.com/docs/structure/).
@@ -7,7 +7,7 @@ Adding a new species page involves creating a new markdown file in the correct d
 
 ## Required frontmatter for species pages
 If adding a species on GitHub (from the section above) your markdown file must start with the following frontmatter:
-```
+```yaml
 ---
 species-name: alba
 common-name: Silver fir
@@ -30,7 +30,7 @@ First make sure you are able to build a jekyll site locally using their [install
 We can compile species pages via data by formatting .csv or .json and putting the files in the _data directory using [jekyll-pagemaster](https://github.com/mnyrop/pagemaster/#readme). From there ensure that the required properties are listed in the collection within `_config.yml`. 
 
 example collection properties:
-```
+```yaml
 collections:
   abies:
     output: true
